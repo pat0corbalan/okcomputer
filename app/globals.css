@@ -45,6 +45,14 @@
   --radius-2xl: calc(var(--radius) * 1.8);
   --radius-3xl: calc(var(--radius) * 2.2);
   --radius-4xl: calc(var(--radius) * 2.6);
+
+  /* AGREGADO TAILWIND V4 NATIVE ANIMATION */
+  --animate-marquee: marquee 25s linear infinite;
+
+  @keyframes marquee {
+    0% { transform: translateX(0%); }
+    100% { transform: translateX(-100%); }
+  }
 }
 
 :root {
@@ -126,3 +134,4 @@
     @apply bg-background text-foreground;
   }
 }
+

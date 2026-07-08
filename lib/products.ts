@@ -1,37 +1,45 @@
 // =============================================================
 //  CATALOGO DE PRODUCTOS — OKComputer
-//  Para agregar/editar productos, modifica el array `products`.
-//  Cada producto debe tener un `id` unico.
 // =============================================================
 
-export type CategoryId =
-  | "accesorios"
-  | "informatica"
-  | "electronica"
-  | "repuestos"
-  | "herramientas"
-  | "hogar"
+// Modificado a `number` o `string` para soportar los nuevos IDs numéricos de la BD
+export type CategoryId = number | string;
 
-export type Category = {
-  id: CategoryId
-  name: string
+export interface CategoryDetails {
+  id: number;
+  level0: string;
+  level1: string | null;
+  level2: string | null;
+  level3: string | null;
+  fullPath: string;
 }
 
 export interface Product {
-  id?: string;       // Puede ser opcional ahora
-  _id?: string;      // Añade este campo para MongoDB
+  id?: string;
+  _id?: { $oid: string } | string; // Soporta el objeto ObjectId de MongoDB o string directo
   sku: string;
   codigo_original?: string | null;
   name: string;
   description: string;
-  image: string | null;
   price: number;
-  category: CategoryId; // O string según lo uses
-  stock: boolean;
+  cost?: number; // Añadido por el nuevo modelo
+  stock: number; // Cambiado de boolean a number para manejar cantidades reales de stock
+  image: string | null;
+  category: CategoryDetails; // Ahora es el objeto detallado con niveles
+  categories: number[];      // Array de IDs de categorías vinculadas
+  updatedAt?: { $date: string } | string;
 }
 
+export type Category = {
+  id: CategoryId;
+  name: string;
+}
+
+// Mapeo inicial de categorías base (puedes expandirlo con los IDs reales de tu BD)
 export const categories: Category[] = [
-  { id: "accesorios", name: "Accesorios Celular" },
+  { id: 1, name: "Accesorios Celular" }, // Corresponde al level0 "Accesorios para celulares" de tu JSON
+  { id: 7, name: "Blindados 9D" },
+  { id: 11, name: "Samsung" },
   { id: "informatica", name: "Informática" },
   { id: "electronica", name: "Electrónica" },
   { id: "repuestos", name: "Repuestos" },
@@ -39,6 +47,10 @@ export const categories: Category[] = [
   { id: "hogar", name: "Hogar" },
 ]
 
+/**
+ * Devuelve el nombre de la categoría mapeada o el nivel principal del producto si no se encuentra en la lista estática.
+ */
 export function getCategoryName(id: CategoryId): string {
-  return categories.find((c) => c.id === id)?.name ?? id
+  const found = categories.find((c) => c.id === id || c.id === Number(id))
+  return found ? found.name : String(id)
 }

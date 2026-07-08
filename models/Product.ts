@@ -1,35 +1,65 @@
 import mongoose, { Schema, Document, models, model } from "mongoose";
 
-// Definimos la interfaz para TypeScript
 export interface IProduct extends Document {
   sku: string;
   codigo_original: string | null;
   name: string;
   description: string;
   image: string | null;
+
   price: number;
-  category: string;
   stock: number;
   costo: number;
+
+  category: {
+    id: number;
+    level0: string;
+    level1: string | null;
+    level2: string | null;
+    level3: string | null;
+    fullPath: string;
+  };
+
+  categories: number[];
+
   actualizadoEn: Date;
 }
 
-// Creamos el esquema de Mongoose
+const CategorySchema = new Schema(
+  {
+    id: { type: Number, required: true },
+    level0: { type: String, required: true },
+    level1: { type: String, default: null },
+    level2: { type: String, default: null },
+    level3: { type: String, default: null },
+    fullPath: { type: String, required: true }
+  },
+  { _id: false }
+);
+
 const ProductSchema = new Schema<IProduct>({
   sku: { type: String, required: true, unique: true },
   codigo_original: { type: String, default: null },
   name: { type: String, required: true, trim: true },
   description: { type: String, default: "" },
   image: { type: String, default: null },
+
   price: { type: Number, required: true },
-  category: { type: String, required: true, default: "Accesorios de Celulares" },
   stock: { type: Number, required: true, default: 0 },
   costo: { type: Number, required: true },
+
+  category: { type: CategorySchema, required: true },
+
+  categories: { type: [Number], default: [] },
+
   actualizadoEn: { type: Date, default: Date.now }
 });
 
-// Muy importante en Next.js: Si el modelo ya existe en la caché de Mongoose, lo reutiliza. 
-// Si no, lo crea de cero. Esto evita el error "Cannot overwrite model once compiled".
-const Product = models.Product || model<IProduct>("Product", ProductSchema);
+// ⚠️ IMPORTANTE: índice para evitar duplicados y mejorar búsqueda
+ProductSchema.index({ sku: 1 }, { unique: true });
+ProductSchema.index({ "category.id": 1 });
+
+const Product =
+  models.Product || model<IProduct>("Product", ProductSchema);
 
 export default Product;
