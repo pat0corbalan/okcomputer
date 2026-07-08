@@ -20,22 +20,32 @@ export function ProductCard({ product, className, index }: ProductCardProps) {
   const { addItem } = useCart()
   const [isAnimating, setIsAnimating] = useState(false)
   const [imageError, setImageError] = useState(false)
-  const BASE_URL = "http://importcellsgo.ddns.net/tienda2"
+  const BASE_URL = "/api/image"
 
   // ⚡ Evalúa si la tarjeta se renderiza "Above the fold" (primeras 4 posiciones)
   const isPriority = index !== undefined && index < 4
 
   const getImageUrl = () => {
     if (product.image) {
-      if (product.image.startsWith("http")) return product.image
-      return `${BASE_URL}/${product.image.replace(/^\//, "")}`
+      if (product.image.startsWith("http")) {
+        return `${BASE_URL}/${product.image
+          .replace("http://importcellsgo.ddns.net/tienda2/", "")}`;
+      }
+
+      return `${BASE_URL}/${product.image.replace(/^\//, "")}`;
     }
-    const identificador = product.sku || product.codigo_original || (product as any)._id
+
+    const identificador =
+      product.sku ||
+      product.codigo_original ||
+      (product as any)._id;
+
     if (identificador) {
-      return `${BASE_URL}/catalogo/${identificador}.jpg`
+      return `${BASE_URL}/catalogo/${identificador}.jpg`;
     }
-    return null
-  }
+
+    return null;
+  };
 
   const imageUrl = getImageUrl()
 
