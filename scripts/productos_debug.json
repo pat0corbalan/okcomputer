@@ -1,0 +1,7674 @@
+[
+  {
+    "codigo": "1013",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA KARSEN JANIS - BLANCO (GARANTIA: 90 DIAS)",
+    "p1": 11500,
+    "p4": 14500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "1014",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA KARSEN JANIS - NEGRO (GARANTIA: 90 DIAS)",
+    "p1": 11500,
+    "p4": 14500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "1015",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA KARSEN JANIS - ROJO (GARANTIA: 90 DIAS)",
+    "p1": 11500,
+    "p4": 14500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "1060",
+    "desc": "CABLE USB IPHONE LIGHTNING CARGA RAPIDA ACORDONADO KARSEN C-203 (GARANTIA: 90 DIAS)",
+    "p1": 1800,
+    "p4": 3000,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "1064",
+    "desc": "CABLE USB V8 MICRO USB CARGA RAPIDA ACORDONADO KARSEN C-203 (GARANTIA: 90 DIAS)",
+    "p1": 1500,
+    "p4": 2500,
+    "stock": 342,
+    "agot": false
+  },
+  {
+    "codigo": "1067",
+    "desc": "CABLE USB TIPO C CARGA RAPIDA ACORDONADO KARSEN C-203 (GARANTIA: 90 DIAS)",
+    "p1": 1600,
+    "p4": 2700,
+    "stock": 174,
+    "agot": false
+  },
+  {
+    "codigo": "1079",
+    "desc": "CARGADOR 12V 2.1A TIPO C KARSEN APOLO CON CABLE  (GARANTIA: 90 DIAS)",
+    "p1": 1200,
+    "p4": 1300,
+    "stock": 1703,
+    "agot": false
+  },
+  {
+    "codigo": "1080",
+    "desc": "CARGADOR 12V 3.1A IPHONE LIGHTNING KARSEN ESTRUENDO - CON CABLE (GARANTIA: 90 DIAS)",
+    "p1": 5400,
+    "p4": 7100,
+    "stock": 86,
+    "agot": false
+  },
+  {
+    "codigo": "1081",
+    "desc": "CARGADOR 12V 3.1A MICRO USB V8 KARSEN ESTRUENDO - CON CABLE (GARANTIA: 90 DIAS)",
+    "p1": 4100,
+    "p4": 5500,
+    "stock": 276,
+    "agot": false
+  },
+  {
+    "codigo": "1083",
+    "desc": "CARGADOR 12V 3.1A TIPO C KARSEN ESTRUENDO - CON CABLE (GARANTIA: 90 DIAS)",
+    "p1": 4400,
+    "p4": 5800,
+    "stock": 441,
+    "agot": false
+  },
+  {
+    "codigo": "1087",
+    "desc": "CARGADOR 3.1A IPHONE LIGHTNING KARSEN + 2 SALIDAD USB - CAR-3150 (GARANTIA: 90 DIAS)",
+    "p1": 3800,
+    "p4": 4600,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "1088",
+    "desc": "CARGADOR 3.1A V8 MICRO USB KARSEN + 2 SALIDAD USB - CAR-3150 (GARANTIA: 90 DIAS)",
+    "p1": 3400,
+    "p4": 3900,
+    "stock": 1157,
+    "agot": false
+  },
+  {
+    "codigo": "1089",
+    "desc": "CARGADOR 3.1A TIPO C KARSEN + 2 SALIDAD USB - CAR-3150 (GARANTIA: 90 DIAS)",
+    "p1": 3600,
+    "p4": 4200,
+    "stock": 1204,
+    "agot": false
+  },
+  {
+    "codigo": "12345678",
+    "desc": "MAQUINA HIDROGEL BRIKO - UNIVERSAL SIN LIMITES DE CORTE  (GARANTIA: 30 DIAS)",
+    "p1": 800000,
+    "p4": 800000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "1288",
+    "desc": "CARGADOR PORTATIL POWER BANK 6000 MAH KARSEN BULL  (GARANTIA: 90 DIAS)",
+    "p1": 4100,
+    "p4": 9200,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "1292",
+    "desc": "SOPORTE CELULAR PARA ESCRITORIO MESA KARSEN MINI DESK (GARANTIA: 90 DIAS)",
+    "p1": 4600,
+    "p4": 6600,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "1315",
+    "desc": "CARGADOR CABEZAL TURBO 25W USB + TIPO C KARSEN CAR-2501 (GARANTIA: 90 DIAS)",
+    "p1": 5600,
+    "p4": 7200,
+    "stock": 2715,
+    "agot": false
+  },
+  {
+    "codigo": "1316",
+    "desc": "CARGADOR 2.1A V8 MICRO USB KARSEN CAR-2101 (GARANTIA: 90 DIAS)",
+    "p1": 1500,
+    "p4": 2300,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "1318",
+    "desc": "CABLE USB 4.2A TIPO C A TIPO C KARSEN C-301 (GARANTIA: 90 DIAS)",
+    "p1": 2100,
+    "p4": 2700,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "1319",
+    "desc": "CABLE USB TIPO C KARSEN C-103 CARGA RAPIDA - COLORES VARIOS (GARANTIA: 90 DIAS)",
+    "p1": 1100,
+    "p4": 1400,
+    "stock": 3433,
+    "agot": false
+  },
+  {
+    "codigo": "1326",
+    "desc": "CABLE USB IPHONE 4.2A TIPO C A LIGHTNING KARSEN C-301 (GARANTIA: 90 DIAS)",
+    "p1": 2100,
+    "p4": 2700,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "1328",
+    "desc": "CABLE USB MICRO USB V8 KARSEN C-103 CARGA RAPIDA - COLORES VARIOS (GARANTIA: 90 DIAS)",
+    "p1": 1000,
+    "p4": 1400,
+    "stock": 7,
+    "agot": false
+  },
+  {
+    "codigo": "1333",
+    "desc": "AURICULAR MANOS LIBRES KARSEN LENNON - COLORES VARIOS (GARANTIA: 90 DIAS)",
+    "p1": 900,
+    "p4": 1500,
+    "stock": 968,
+    "agot": false
+  },
+  {
+    "codigo": "1338",
+    "desc": "AURICULAR MANOS LIBRES KARSEN RINGO - COLORES VARIOS (GARANTIA: 90 DIAS)",
+    "p1": 1600,
+    "p4": 1900,
+    "stock": -58,
+    "agot": true
+  },
+  {
+    "codigo": "1345",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH KARSEN BILLIE - AZUL (GARANTIA: 90 DIAS)",
+    "p1": 12100,
+    "p4": 15200,
+    "stock": 43,
+    "agot": false
+  },
+  {
+    "codigo": "1346",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH KARSEN BILLIE - BLANCO (GARANTIA: 90 DIAS)",
+    "p1": 12100,
+    "p4": 15200,
+    "stock": 25,
+    "agot": false
+  },
+  {
+    "codigo": "1347",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH KARSEN BILLIE - NEGRO (GARANTIA: 90 DIAS)",
+    "p1": 12100,
+    "p4": 15200,
+    "stock": 18,
+    "agot": false
+  },
+  {
+    "codigo": "1349",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH KARSEN KATY (GARANTIA: 90 DIAS)",
+    "p1": 13100,
+    "p4": 16500,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "1361",
+    "desc": "AURICULAR VINCHA MANOS LIBRES KARSEN BOWIE - AMARILLO (GARANTIA: 90 DIAS)",
+    "p1": 8100,
+    "p4": 10200,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "1362",
+    "desc": "AURICULAR VINCHA MANOS LIBRES KARSEN BOWIE - ROSA (GARANTIA: 90 DIAS)",
+    "p1": 8100,
+    "p4": 10200,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "1363",
+    "desc": "AURICULAR VINCHA MANOS LIBRES KARSEN BOWIE - VERDE (GARANTIA: 90 DIAS)",
+    "p1": 8100,
+    "p4": 10200,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "1377",
+    "desc": "AURICULAR VINCHA MANOS LIBRES KARSEN PRODAN - AZUL (GARANTIA: 90 DIAS)",
+    "p1": 3300,
+    "p4": 4000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "1378",
+    "desc": "AURICULAR VINCHA MANOS LIBRES KARSEN PRODAN - NEGRO (GARANTIA: 90 DIAS)",
+    "p1": 3300,
+    "p4": 4000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "1379",
+    "desc": "AURICULAR VINCHA MANOS LIBRES KARSEN PRODAN - ROSA (GARANTIA: 90 DIAS)",
+    "p1": 3300,
+    "p4": 4000,
+    "stock": 39,
+    "agot": false
+  },
+  {
+    "codigo": "140619212910",
+    "desc": "MANOS LIBRES AURICULAR SAMSUNG YJ  CALIDAD ORIGINAL (SIN GARANTIA)",
+    "p1": 2000,
+    "p4": 2600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "1480",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH DEPORTIVO KARSEN MARATHON (GARANTIA: 90 DIAS)",
+    "p1": 6000,
+    "p4": 7500,
+    "stock": 42,
+    "agot": false
+  },
+  {
+    "codigo": "1483",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH DEPORTIVO KARSEN GYM (GARANTIA: 90 DIAS)",
+    "p1": 6000,
+    "p4": 7500,
+    "stock": 23,
+    "agot": false
+  },
+  {
+    "codigo": "1484",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA KARSEN GAGA - BLANCO (GARANTIA: 90 DIAS)",
+    "p1": 9300,
+    "p4": 11700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "1485",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA KARSEN GAGA - NEGRO (GARANTIA: 90 DIAS)",
+    "p1": 9300,
+    "p4": 11700,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "1486",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA KARSEN GAGA - ROSA (GARANTIA: 90 DIAS)",
+    "p1": 9300,
+    "p4": 11700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "1487",
+    "desc": "CARGADOR 12V 38W ULTRA RAPIDO USB + TIPO C KARSEN ATOMIC - INCLUYE CABLE TIPO C A TIPO C (GARANTIA: 90 DIAS)",
+    "p1": 5700,
+    "p4": 6900,
+    "stock": 143,
+    "agot": false
+  },
+  {
+    "codigo": "1490",
+    "desc": "AURICULAR MANOS LIBRES KARSEN MARS - IPHONE LIGHTNING (GARANTIA: 90 DIAS)",
+    "p1": 3900,
+    "p4": 4900,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "1491",
+    "desc": "AURICULAR MANOS LIBRES KARSEN MARS - TIPO C (GARANTIA: 90 DIAS)",
+    "p1": 3200,
+    "p4": 4000,
+    "stock": -2,
+    "agot": true
+  },
+  {
+    "codigo": "1624",
+    "desc": "CARGADOR 12V 38W ULTRA RAPIDO USB + TIPO C KARSEN ATOMIC - INCLUYE CABLE TIPO C A IPHONE LIGHTNING (GARANTIA: 90 DIAS)",
+    "p1": 6100,
+    "p4": 7400,
+    "stock": 56,
+    "agot": false
+  },
+  {
+    "codigo": "1674",
+    "desc": "CARGADOR CABEZAL TURBO 20W USB + TIPO C KARSEN CAR-2002 (GARANTIA: 90 DIAS)",
+    "p1": 4400,
+    "p4": 5900,
+    "stock": 71,
+    "agot": false
+  },
+  {
+    "codigo": "1675",
+    "desc": "CARGADOR CABEZAL TURBO 20W USB + TIPO C + CABLE TIPO C KARSEN CAR-2002 (GARANTIA: 90 DIAS)",
+    "p1": 5200,
+    "p4": 6900,
+    "stock": 312,
+    "agot": false
+  },
+  {
+    "codigo": "1676",
+    "desc": "CARGADOR CABEZAL TURBO 20W USB + TIPO C+ CABLE LIGHTNING IPHONE CAR-2002 (GARANTIA: 90 DIAS)",
+    "p1": 5500,
+    "p4": 7300,
+    "stock": 300,
+    "agot": false
+  },
+  {
+    "codigo": "1677",
+    "desc": "CARGADOR CABEZAL TURBO 35W TIPO C KARSEN CAR-3501 (GARANTIA: 90 DIAS)",
+    "p1": 5800,
+    "p4": 7800,
+    "stock": 461,
+    "agot": false
+  },
+  {
+    "codigo": "1678",
+    "desc": "CARGADOR CABEZAL TURBO 35W TIPO C + CABLE TIPO C KARSEN CAR-3501 (GARANTIA: 90 DIAS)",
+    "p1": 6600,
+    "p4": 8800,
+    "stock": 381,
+    "agot": false
+  },
+  {
+    "codigo": "1679",
+    "desc": "CARGADOR CABEZAL TURBO ULTRA RAPIDO 65W TIPO C KARSEN CAR-6501 (GARANTIA: 90 DIAS)",
+    "p1": 11000,
+    "p4": 14600,
+    "stock": 271,
+    "agot": false
+  },
+  {
+    "codigo": "1680",
+    "desc": "CARGADOR CABEZAL TURBO ULTRA RAPIDO 65W TIPO C + CABLE TIPO C KARSEN CAR-6501 (GARANTIA: 90 DIAS)",
+    "p1": 12500,
+    "p4": 16700,
+    "stock": 206,
+    "agot": false
+  },
+  {
+    "codigo": "1681",
+    "desc": "CARGADOR NOTEBOOK UNIVERSAL KARSEN 9 CONECTORES CAR-NT1 (GARANTIA: 90 DIAS)",
+    "p1": 16700,
+    "p4": 22200,
+    "stock": 116,
+    "agot": false
+  },
+  {
+    "codigo": "1825",
+    "desc": "CARGADOR 3.1A V8 MICRO USB - PACKING SAMSUNG - CON 2 USB (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": -3,
+    "agot": true
+  },
+  {
+    "codigo": "190198496263",
+    "desc": "CABLE USB IPHONE USB A A LIGHTNING 1 MT - CALIDAD ORIGINAL (SIN GARANTIA)",
+    "p1": 2100,
+    "p4": 2500,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "190198889966",
+    "desc": "CARGADOR IPHONE + CABLE TIPO C A TIPO C 35W - CALIDAD ORIGINAL (GARANTIA: 5 DIAS)",
+    "p1": 7500,
+    "p4": 9000,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "19019888997323",
+    "desc": "CABLE USB IPHONE TIPO C A LIGHTNING 1MT - CALIDAD ORIGINAL (SIN GARANTIA)",
+    "p1": 2400,
+    "p4": 3300,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "190199246850",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH APPLE AIRPODS PRO - CALIDAD AAA+ (SIN GARANTIA)",
+    "p1": 28600,
+    "p4": 35800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "1911251636322",
+    "desc": "SOPORTE HOLDER ESCRITORIO PARA TABLET  (SIN GARANTIA)",
+    "p1": 700,
+    "p4": 900,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "194252156933",
+    "desc": "CARGADOR CABEZAL IPHONE TIPO C 20W - CALIDAD TIPO ORIGINAL PREMIUM (SIN GARANTIA)",
+    "p1": 4200,
+    "p4": 5400,
+    "stock": 571,
+    "agot": false
+  },
+  {
+    "codigo": "194252157022",
+    "desc": "CARGADOR CABEZAL ADAPTADOR APPLE IPHONE USB TIPO C 20W 100% ORIGINAL - ENCHUFE EUROPEO (GARANTIA: CONSULTAR)",
+    "p1": 41500,
+    "p4": 50400,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "194252750612",
+    "desc": "CABLE USB IPHONE TIPO C A TIPO C ACORDONADO - CALIDAD ORIGINAL (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 3800,
+    "stock": 1527,
+    "agot": false
+  },
+  {
+    "codigo": "194252897300",
+    "desc": "CARGADOR CABEZAL ADAPTADOR APPLE MACBOOK NOTEBOOK USB TIPO C 67W - 100% ORIGINAL USA (GARANTIA: CONSULTAR)",
+    "p1": 102000,
+    "p4": 122400,
+    "stock": 19,
+    "agot": false
+  },
+  {
+    "codigo": "194253397878",
+    "desc": "AURICULAR INALAMBRICO IPHONE APPLE AIRPODS PRO 2DA GENERACION - CALIDAD ORIGINAL PREMIUM (SIN GARANTIA)",
+    "p1": 17500,
+    "p4": 20000,
+    "stock": 102,
+    "agot": false
+  },
+  {
+    "codigo": "194253494850",
+    "desc": "CABLE USB IPHONE 15 TIPO C A TIPO C 60W - ORIGINAL ACORDONADO (GARANTIA: 5 DIAS)",
+    "p1": 18600,
+    "p4": 25600,
+    "stock": 84,
+    "agot": false
+  },
+  {
+    "codigo": "2008123019020",
+    "desc": "SOPORTE DE MESA PARA CELULAR  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "2010133032012",
+    "desc": "BOLSO PORTA CELULAR PARA BICICLETA  (GARANTIA: CONSULTAR)",
+    "p1": 800,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "2010143032033",
+    "desc": "SOPORTE HOLDER MULTIFUNCIONAL VOCAL STENTS  (SIN GARANTIA)",
+    "p1": 2000,
+    "p4": 2800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "2130401382899",
+    "desc": "AURICULAR INPODS 12 FUKUOKA ARMY  (SIN GARANTIA)",
+    "p1": 1100,
+    "p4": 1400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "23415456",
+    "desc": "SOPORTE MANITOS CELULAR  (SIN GARANTIA)",
+    "p1": 1000,
+    "p4": 1200,
+    "stock": 20,
+    "agot": false
+  },
+  {
+    "codigo": "2681157440192",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH LUMINOUS - SMS-T19 ESTUCHE C/ LUCES LED (GARANTIA: 5 DIAS)",
+    "p1": 17600,
+    "p4": 21300,
+    "stock": 95,
+    "agot": false
+  },
+  {
+    "codigo": "3102",
+    "desc": "AURICULAR MANOS LIBRES KARSEN JAGGER CHATO (GARANTIA: 90 DIAS)",
+    "p1": 1300,
+    "p4": 1600,
+    "stock": 1770,
+    "agot": false
+  },
+  {
+    "codigo": "4842025011328",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH TIPO AIRPODS CON FUNDA Y ESTUCHE LLAVERO INFANTIL - MOTIVOS VARIOS (GARANTIA: CONSULTAR)",
+    "p1": 15100,
+    "p4": 19000,
+    "stock": 57,
+    "agot": false
+  },
+  {
+    "codigo": "4842864620965",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH INFANTIL CON POP IT - MODELOS VARIOS (SIN GARANTIA)",
+    "p1": 15100,
+    "p4": 19000,
+    "stock": 34,
+    "agot": false
+  },
+  {
+    "codigo": "4897888201102",
+    "desc": "AUDIFONO INALAMBRICO PARA SORDOS A PILA CS288 (GARANTIA: 7 DIAS)",
+    "p1": 1800,
+    "p4": 2300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "50036391412",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH JBL VIBE BUDS BLACK - ORIGINAL  (GARANTIA: 30 DIAS)",
+    "p1": 83500,
+    "p4": 100200,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "50036394499",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH JBL VIBE BEAM TWS TRUE BASS BLUE - ORIGINAL (GARANTIA: 30 DIAS)",
+    "p1": 82200,
+    "p4": 98700,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "5307",
+    "desc": "AURICULAR MANOS LIBRES C/CABLE ONEPLUS EB201 ONEPLUS (SIN GARANTIA)",
+    "p1": 800,
+    "p4": 1200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "5551794700829",
+    "desc": "CABLE USB IPHONE TIPO C A LIGHTNING 2MTS - CALIDAD ORIGINAL (SIN GARANTIA)",
+    "p1": 3400,
+    "p4": 4100,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "6402",
+    "desc": "CABLE USB KARSEN C102 C-102 MICRO USB V8 CARGA RAPIDA ACORDONADO - SOLO ROSA (GARANTIA: 90 DIAS)",
+    "p1": 600,
+    "p4": 900,
+    "stock": 2570,
+    "agot": false
+  },
+  {
+    "codigo": "6404",
+    "desc": "CARGADOR 12V 2.1A V8 MICRO USB KARSEN APOLO CON CABLE  (GARANTIA: 90 DIAS)",
+    "p1": 1200,
+    "p4": 1300,
+    "stock": 976,
+    "agot": false
+  },
+  {
+    "codigo": "6820222231266",
+    "desc": "CARGADOR 3.4A IMEGA PREMIUM TIPO C - 2 SALIDAS USB + TIPO C PD 20W - MG223-3 (SIN GARANTIA)",
+    "p1": 4800,
+    "p4": 7000,
+    "stock": 24,
+    "agot": false
+  },
+  {
+    "codigo": "6820222412559",
+    "desc": "CARGADOR 3.4A IMEGA PREMIUM - SALIDA USB + TIPO C PD 20W + CABLE TIPO C MG223-2  (SIN GARANTIA)",
+    "p1": 4800,
+    "p4": 7000,
+    "stock": 21,
+    "agot": false
+  },
+  {
+    "codigo": "6901234577891",
+    "desc": "MANOS LIBRES AURICULAR SAMSUNG AKG BOLSA S8 S10 S20 (SIN GARANTIA)",
+    "p1": 400,
+    "p4": 500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "6905724001699",
+    "desc": "CABLE USB REFORZADO ACORDONADO TIPO C A TIPO C 66W XF-169 (SIN GARANTIA)",
+    "p1": 2200,
+    "p4": 2700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "6907150801881",
+    "desc": "AURICULAR MANOS LIBRES SIMIL SONY MDR-EX750AP - COLORES VARIOS (SIN GARANTIA)",
+    "p1": 1700,
+    "p4": 2100,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "6916280481214",
+    "desc": "CARGADOR 3.1A TIPO C APRO CABLE + 2 USB (SIN GARANTIA)",
+    "p1": 2600,
+    "p4": 3300,
+    "stock": 133,
+    "agot": false
+  },
+  {
+    "codigo": "6916280481269",
+    "desc": "CARGADOR 3.1A V8 MICRO USB APRO CABLE + 2 USB (SIN GARANTIA)",
+    "p1": 2700,
+    "p4": 3400,
+    "stock": 12,
+    "agot": false
+  },
+  {
+    "codigo": "6917678005302",
+    "desc": "AURICULAR AKS-530 BOCA - RIVER CON CABLE (SIN GARANTIA)",
+    "p1": 700,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "6921042123721",
+    "desc": "AURICULAR MANOS LIBRES SOMOSTEC JD008 IN EAR STEREO (SIN GARANTIA)",
+    "p1": 390,
+    "p4": 550,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "6921554837253",
+    "desc": "SOPORTE CELULAR ESCRITORIO PLEGABLE JB12 (SIN GARANTIA)",
+    "p1": 3100,
+    "p4": 3700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "6925970713405",
+    "desc": "AURICULAR MANOS LIBRES SIMIL PHILIPS BASS+ SHE4305 (SIN GARANTIA)",
+    "p1": 1700,
+    "p4": 2100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "6931207000132",
+    "desc": "AURICULAR GAMER PC T-218 CON MICROFONO + ADAPTADOR PS4 FICHA 3.5 X 2 (SIN GARANTIA)",
+    "p1": 1400,
+    "p4": 1800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "6933863822097",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA TIPO AIRPODS MAX BLACK BEAR C-2236 CON CANCELACION DE RUIDO - COLORES VARIOS (SIN GARANTIA)",
+    "p1": 15100,
+    "p4": 19000,
+    "stock": 41,
+    "agot": false
+  },
+  {
+    "codigo": "6934177708800",
+    "desc": "AURICULAR XIAOMI REDMI AIRDOTS TIPO ORIGINAL TWSEJ04LS (SIN GARANTIA)",
+    "p1": 14100,
+    "p4": 18400,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "6934177720482",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH XIAOMI MI TRUE WIRELESS EARBUDS BASIC 2 - ORIGINAL (GARANTIA: 20 DIAS)",
+    "p1": 22300,
+    "p4": 26700,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "6939188412326",
+    "desc": "AURICULAR MANOS LIBRES SIMIL JBL JB-91 (SIN GARANTIA)",
+    "p1": 1700,
+    "p4": 2100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "6945126872602",
+    "desc": "AURICULAR MANOS LIBRES IMEGA MG2601 - COLORES VARIOS (SIN GARANTIA)",
+    "p1": 1000,
+    "p4": 1300,
+    "stock": 190,
+    "agot": false
+  },
+  {
+    "codigo": "6953767412163",
+    "desc": "AURICULAR MANOS LIBRES TIPO C GOMITA SY-T10 (SIN GARANTIA)",
+    "p1": 3100,
+    "p4": 3800,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "6953767412194",
+    "desc": "AURICULAR MANOS LIBRES TIPO C SY-T07 (SIN GARANTIA)",
+    "p1": 3100,
+    "p4": 3800,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "6954774700472",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA CAT P47 GATITO - COLORES VARIOS (SIN GARANTIA)",
+    "p1": 5300,
+    "p4": 6500,
+    "stock": 28,
+    "agot": false
+  },
+  {
+    "codigo": "6955226412561",
+    "desc": "CARGADOR MOTOROLA TURBO POWER 20W + CABLE USB TIPO C - ORIGINAL (GARANTIA: 10 DIAS)",
+    "p1": 8900,
+    "p4": 12600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "6964145289215",
+    "desc": "SOPORTE CELULAR PARA BICICLETA - DOS PINZAS  (SIN GARANTIA)",
+    "p1": 2400,
+    "p4": 2900,
+    "stock": 10,
+    "agot": false
+  },
+  {
+    "codigo": "6966884625422",
+    "desc": "MANOS LIBRES BLUETHOOT SPORTS BLUETHOOT RT558 C/OREJERA  (GARANTIA: CONSULTAR)",
+    "p1": 500,
+    "p4": 700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "6969936855006",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA SIMIL JBL TOUR ONE M2 - COLORES VARIOS (SIN GARANTIA)",
+    "p1": 20200,
+    "p4": 25400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "6973358100309",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA CON LUCES RGB A30 (GARANTIA: 5 DIAS)",
+    "p1": 19800,
+    "p4": 24000,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "6973358709809",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA 6D STITCH RGB (GARANTIA: 5 DIAS)",
+    "p1": 24200,
+    "p4": 30400,
+    "stock": 35,
+    "agot": false
+  },
+  {
+    "codigo": "6974879950015",
+    "desc": "AURICULAR MANOS LIBRES TIPO C AURITC01 - TC04 (SIN GARANTIA)",
+    "p1": 3400,
+    "p4": 4200,
+    "stock": 21,
+    "agot": false
+  },
+  {
+    "codigo": "6976504663871",
+    "desc": "CABLE USB CARGA RAPIDA 4 EN 1 INTERCAMBIABLE - LIGHTNING TIPO C USB METAL (SIN GARANTIA)",
+    "p1": 2200,
+    "p4": 2700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "698180000000",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT ORIGINAL STN-28 C/LED FM/AUX/SD (SIN GARANTIA)",
+    "p1": 4000,
+    "p4": 4800,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "6982024061523",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH TIPO AIRPODS PRO CON ESTUCHE COLGANTE INFANTIL - MOTIVOS VARIOS (GARANTIA: CONSULTAR)",
+    "p1": 13100,
+    "p4": 16500,
+    "stock": 260,
+    "agot": false
+  },
+  {
+    "codigo": "6984521291663",
+    "desc": "AURICULAR MANOS LIBRES SIMIL SAMSUNG AKG CAJITA (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "6989532512530",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH P47 5.0 + EDR AUX / MICROSD / FM (SIN GARANTIA)",
+    "p1": 4400,
+    "p4": 5300,
+    "stock": -3,
+    "agot": true
+  },
+  {
+    "codigo": "6989745515410",
+    "desc": "CARGADOR 2.4A IMEGA TIPO C RAPIDO BOLSA + 2 SALIDAS USB- MG556 (SIN GARANTIA)",
+    "p1": 1800,
+    "p4": 2600,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "6989745515533",
+    "desc": "CARGADOR 2.4A IMEGA MICRO USB V8 RAPIDO BOLSA + 2 SALIDAS USB - MG555 (SIN GARANTIA)",
+    "p1": 1200,
+    "p4": 1400,
+    "stock": 14,
+    "agot": false
+  },
+  {
+    "codigo": "700306600972",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH EARBUDS NETMAK NM-BUD NEGRO  (GARANTIA: 45 DIAS)",
+    "p1": 18400,
+    "p4": 22600,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "700306600989",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH EARBUDS NETMAK NM-BUD BLANCO  (GARANTIA: 45 DIAS)",
+    "p1": 18400,
+    "p4": 22600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306600996",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH EARBUDS NETMAK NM-BUD ROJO  (GARANTIA: 45 DIAS)",
+    "p1": 18400,
+    "p4": 22600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306601009",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH EARBUDS NETMAK NM-BUD AZUL  (GARANTIA: 45 DIAS)",
+    "p1": 18400,
+    "p4": 22600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306601016",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH EARBUDS NETMAK NM-BUD VIOLETA  (GARANTIA: 45 DIAS)",
+    "p1": 18400,
+    "p4": 22600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306601054",
+    "desc": "SOPORTE PARA AUTO MAGNETICO NETMAK NM-HC19  (SIN GARANTIA)",
+    "p1": 4900,
+    "p4": 5900,
+    "stock": 85,
+    "agot": false
+  },
+  {
+    "codigo": "700306601078",
+    "desc": "SOPORTE HOLDER CELULAR PARA AUTO - BRAZO FLEXIBLE NETMAK NM-HC21 (SIN GARANTIA)",
+    "p1": 4600,
+    "p4": 5600,
+    "stock": 91,
+    "agot": false
+  },
+  {
+    "codigo": "700306601085",
+    "desc": "SOPORTE CELULAR MAGNETICO PARA VIDRIO Y TABLERO NETMAK NM-HC22 (SIN GARANTIA)",
+    "p1": 5700,
+    "p4": 7000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306601092",
+    "desc": "SOPORTE PARA AUTO MAGNETICO NETMAK NM-HC14  (GARANTIA: 30 DIAS)",
+    "p1": 4500,
+    "p4": 5500,
+    "stock": 204,
+    "agot": false
+  },
+  {
+    "codigo": "700306601108",
+    "desc": "SOPORTE CELULAR PARA VIDRIO Y TABLERO NETMAK NM-HC16 (SIN GARANTIA)",
+    "p1": 5300,
+    "p4": 6500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306601177",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK TOUCH NM-TOUCH  (GARANTIA: 45 DIAS)",
+    "p1": 10900,
+    "p4": 13400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306601344",
+    "desc": "AURICULAR GAMER NETMAK BATTLE PS4 CAMUFLADO 1 FICHA 3.5 (GARANTIA: 45 DIAS)",
+    "p1": 8500,
+    "p4": 10500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306601351",
+    "desc": "AURICULAR GAMER NETMAK FURIOUS PS4 1 FICHA 3.5 (GARANTIA: 45 DIAS)",
+    "p1": 5500,
+    "p4": 6800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306601368",
+    "desc": "AURICULAR GAMER NETMAK SHADOW 2 FICHA 3.5 (GARANTIA: 45 DIAS)",
+    "p1": 6500,
+    "p4": 8000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306601375",
+    "desc": "AURICULAR GAMER NETMAK INFINITY PS4 1 FICHA 3.5 (GARANTIA: 45 DIAS)",
+    "p1": 9700,
+    "p4": 12000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306601450",
+    "desc": "AURICULAR GAMER NETMAK VENGER C/LED 2 FICHA 3.5 (GARANTIA: 45 DIAS)",
+    "p1": 10400,
+    "p4": 12800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306601511",
+    "desc": "TRIPODE MINI ALTURA REGULABLE + ROTACION 360° NETMAK -  NM-TRIP4  (GARANTIA: 45 DIAS)",
+    "p1": 3100,
+    "p4": 3800,
+    "stock": -7,
+    "agot": true
+  },
+  {
+    "codigo": "700306601542",
+    "desc": "TRIPODE CELULAR / CAMARA NETMAK ALUMINIO 106 CM - NM-TRIP1  (GARANTIA: 45 DIAS)",
+    "p1": 7500,
+    "p4": 9200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306601559",
+    "desc": "TRIPODE MINI CELULAR / CAMARA NETMAK UNIVERSAL FLEX - NM-TRIP2  (GARANTIA: 45 DIAS)",
+    "p1": 2300,
+    "p4": 2800,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "700306601566",
+    "desc": "TRIPODE CELULAR / CAMARA NETMAK ALUMINIO 150 CM - NM-TRIP3  (GARANTIA: 45 DIAS)",
+    "p1": 14100,
+    "p4": 17400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306602204",
+    "desc": "AURICULAR GAMER NETMAK SPIDER PC / PS4 CON LED 2 FICHA 3.5 + ADAP PS4 (GARANTIA: 45 DIAS)",
+    "p1": 11700,
+    "p4": 14400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306602211",
+    "desc": "AURICULAR GAMER NETMAK COUNTER PS4 / CONSOLAS 1 FICHA 3.5 (GARANTIA: 45 DIAS)",
+    "p1": 11700,
+    "p4": 14400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306602235",
+    "desc": "AURICULAR GAMER NETMAK METEOR USB 5.1 CON LED USB (GARANTIA: 45 DIAS)",
+    "p1": 7800,
+    "p4": 9600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306603485",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK AIR 5PRO NM-AIR5 - BLANCO (GARANTIA: 45 DIAS)",
+    "p1": 10200,
+    "p4": 12600,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "700306603515",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK AIR 5PRO NM-AIR5 - NEGRO (GARANTIA: 45 DIAS)",
+    "p1": 10200,
+    "p4": 12600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306603522",
+    "desc": "CABLE USB V8 MICRO USB  NETMAK NM-115 2A 1M MAGIC SERIES  (GARANTIA: 45 DIAS)",
+    "p1": 3000,
+    "p4": 3700,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "700306603560",
+    "desc": "CABLE USB TIPO C NETMAK NM-114 2A 1M MAGIC SERIES  (GARANTIA: 45 DIAS)",
+    "p1": 2400,
+    "p4": 2900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306603645",
+    "desc": "KIT STREAMING 4 EN 1 (MIC+SOPORTE+LED+TRIPODE) NETMAK NM-STREAM (GARANTIA: 45 DIAS)",
+    "p1": 15900,
+    "p4": 19500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306603744",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH EARBUDS NETMAK NM-BUD MULTI COLOR (GARANTIA: 45 DIAS)",
+    "p1": 20000,
+    "p4": 24600,
+    "stock": 4,
+    "agot": false
+  },
+  {
+    "codigo": "700306603874",
+    "desc": "CARGADOR 12V 3.0 CARGA RAPIDA PD20W + QC18W NETMAK NM-UCC7 (GARANTIA: 45 DIAS)",
+    "p1": 5800,
+    "p4": 7100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306603881",
+    "desc": "CARGADOR 12V 3.0 CARGA RAPIDA 2 USB - DISPLAY LED NETMAK NM-UCC8 (GARANTIA: 45 DIAS)",
+    "p1": 4400,
+    "p4": 5400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306604031",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK NM-BIZA ROSA (GARANTIA: 45 DIAS)",
+    "p1": 13900,
+    "p4": 17100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306604048",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK NM-BIZA NEGRO (GARANTIA: 45 DIAS)",
+    "p1": 13900,
+    "p4": 17100,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "700306604062",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK NM-BIZA BLANCO (GARANTIA: 45 DIAS)",
+    "p1": 13900,
+    "p4": 17100,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "700306604079",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK NM-CAT GATITO / OREJAS - ROSA (GARANTIA: 30 DIAS)",
+    "p1": 14600,
+    "p4": 18000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306604086",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA DUAL NETMAK BLANCO NM-VOLT (GARANTIA: 30 DIAS)",
+    "p1": 19500,
+    "p4": 24000,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "700306604093",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA DUAL NETMAK AZUL NM-VOLT  (GARANTIA: 30 DIAS)",
+    "p1": 19500,
+    "p4": 24000,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "700306604109",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA DUAL NETMAK NEGRO NM-VOLT (GARANTIA: 30 DIAS)",
+    "p1": 19500,
+    "p4": 24000,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "700306604253",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK CON DISPLAY NETMAK NETPOD NEGRO (GARANTIA: 30 DIAS)",
+    "p1": 19100,
+    "p4": 23500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306604260",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK CON DISPLAY NETMAK NETPOD BLANCO (GARANTIA: 30 DIAS)",
+    "p1": 19100,
+    "p4": 23500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306604307",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA DUAL NETMAK ROSA NM-VOLT  (GARANTIA: 30 DIAS)",
+    "p1": 19500,
+    "p4": 24000,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "700306604383",
+    "desc": "SOPORTE CELULAR PARA BICICLETA NETMAK NM-HC34 (SIN GARANTIA)",
+    "p1": 3100,
+    "p4": 3800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306604390",
+    "desc": "SOPORTE CELULAR PARA ESPEJO RETROVISOR BRAZO EXTENSIBLE NETMAK NM-HC24 (SIN GARANTIA)",
+    "p1": 5100,
+    "p4": 6300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306604406",
+    "desc": "SOPORTE CELULAR PARA ESPEJO RETROVISOR NETMAK NM-HC25 (SIN GARANTIA)",
+    "p1": 4800,
+    "p4": 5900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306605120",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA PLEGABLE DUAL NEGRO NETMAK NM-LIVE (GARANTIA: 45 DIAS)",
+    "p1": 15900,
+    "p4": 19500,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "700306605137",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA PLEGABLE DUAL BLANCO NETMAK NM-LIVE (GARANTIA: 45 DIAS)",
+    "p1": 15900,
+    "p4": 19500,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "700306605144",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA PLEGABLE DUAL ROSA NETMAK NM-LIVE (GARANTIA: 45 DIAS)",
+    "p1": 15900,
+    "p4": 19500,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "700306605700",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA CABEZAL LUMINOSO NETMAK NM-MAGIC (GARANTIA: 45 DIAS)",
+    "p1": 12200,
+    "p4": 15000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "700306605717",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH OWS CLIP-ON NETMAK NM-FITER - NEGRO (GARANTIA: 30 DIAS)",
+    "p1": 17100,
+    "p4": 21000,
+    "stock": 22,
+    "agot": false
+  },
+  {
+    "codigo": "700306605724",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK MIKO - NEGRO (GARANTIA: 45 DIAS)",
+    "p1": 12800,
+    "p4": 15800,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "700306605731",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK MIKO - BLANCO (GARANTIA: 45 DIAS)",
+    "p1": 12800,
+    "p4": 15800,
+    "stock": 7,
+    "agot": false
+  },
+  {
+    "codigo": "700306606264",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CON PANTALLA TOUCH NETMAK NM-SMART (GARANTIA: 30 DIAS)",
+    "p1": 19500,
+    "p4": 24000,
+    "stock": 18,
+    "agot": false
+  },
+  {
+    "codigo": "700306606509",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH OWS AGARRE DEPORTIVO NETMAK NM-FAST - NEGRO (GARANTIA: 30 DIAS)",
+    "p1": 15900,
+    "p4": 19500,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "700306606516",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH OWS AGARRE DEPORTIVO NETMAK NM-SPIRIT - NEGRO (GARANTIA: 30 DIAS)",
+    "p1": 15900,
+    "p4": 19500,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "700306607070",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK NM-MELOW - NEGRO (GARANTIA: 30 DIAS)",
+    "p1": 11000,
+    "p4": 13500,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "700306607100",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK NM-MELOW - BLANCO (GARANTIA: 30 DIAS)",
+    "p1": 11000,
+    "p4": 13500,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "700306607261",
+    "desc": "CARGADOR 12V 66W USB + TIPO C + PROYECTOR - CON CABLE RETRACTIL TIPO C + LIGHTNING NETMAK NM-UCC9 (GARANTIA: 45 DIAS)",
+    "p1": 24300,
+    "p4": 29500,
+    "stock": 25,
+    "agot": false
+  },
+  {
+    "codigo": "700306607360",
+    "desc": "CARGADOR 12V 48W USB + TIPO C  NETMAK NM-UCC12 (GARANTIA: 45 DIAS)",
+    "p1": 5000,
+    "p4": 6100,
+    "stock": 33,
+    "agot": false
+  },
+  {
+    "codigo": "700306607377",
+    "desc": "CARGADOR 12V 48W USB + TIPO C  - CON CABLE TIPO C NETMAK NM-UCC14 (GARANTIA: 45 DIAS)",
+    "p1": 6000,
+    "p4": 7200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "701575360987",
+    "desc": "AURICULAR BLUETHOOT I16 MAX V5.0 TWS  (SIN GARANTIA)",
+    "p1": 1100,
+    "p4": 1300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "701575361038",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH SPORT SUONO SKU: AYV0017 (SIN GARANTIA)",
+    "p1": 3400,
+    "p4": 4500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "701575361106",
+    "desc": "CARGADOR NOTEBOOK SUONO 8 FICHAS INF0008 (SIN GARANTIA)",
+    "p1": 11600,
+    "p4": 14900,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "701575363018",
+    "desc": "AURICULAR GAMER SUONO H7 PC CON LED 2 FICHA 3.5 (SIN GARANTIA)",
+    "p1": 6700,
+    "p4": 8900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "701575363032",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH SPORT SUONO FM/SD AYV0016 (SIN GARANTIA)",
+    "p1": 5500,
+    "p4": 7300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "701575363636",
+    "desc": "CARGADOR FUENTE 2A 12V TRANSFORMADOR SUONO / FICHA 5.5 MM / TIRAS LED (SIN GARANTIA)",
+    "p1": 4300,
+    "p4": 5500,
+    "stock": -15,
+    "agot": true
+  },
+  {
+    "codigo": "701575363674",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH TWS5 V5.0 SPORT WIRELESS  (SIN GARANTIA)",
+    "p1": 1600,
+    "p4": 2000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7137",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH KARSEN BRITNEY BLANCO C/GARANTIA (GARANTIA: 90 DIAS)",
+    "p1": 5600,
+    "p4": 8000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7138",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH KARSEN BRITNEY NEGRO C/GARANTIA (GARANTIA: 90 DIAS)",
+    "p1": 5600,
+    "p4": 8000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7139",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH KARSEN MILEY BLANCO  (GARANTIA: 90 DIAS)",
+    "p1": 10700,
+    "p4": 13500,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "7140",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH KARSEN MILEY NEGRO  (GARANTIA: 90 DIAS)",
+    "p1": 10700,
+    "p4": 13500,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "7141",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH KARSEN MILEY ROSA  (GARANTIA: 90 DIAS)",
+    "p1": 10700,
+    "p4": 13500,
+    "stock": 18,
+    "agot": false
+  },
+  {
+    "codigo": "7142",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH KARSEN MILEY AZUL  (GARANTIA: 90 DIAS)",
+    "p1": 10700,
+    "p4": 13500,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "7143",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH KARSEN MILEY VERDE  (GARANTIA: 90 DIAS)",
+    "p1": 10700,
+    "p4": 13500,
+    "stock": 18,
+    "agot": false
+  },
+  {
+    "codigo": "7144",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH KARSEN MILEY GRIS  (GARANTIA: 90 DIAS)",
+    "p1": 10700,
+    "p4": 13500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7231",
+    "desc": "SOPORTE CELULAR UNIVERSAL PINZA FLEXIBLE PARA ESCRITORIO KARSEN FLEX (GARANTIA: 90 DIAS)",
+    "p1": 4200,
+    "p4": 6000,
+    "stock": 4,
+    "agot": false
+  },
+  {
+    "codigo": "723540565272",
+    "desc": "AURICULAR VINCHA DISEÑO MICKEY CON MANOS LIBRES - AR1127 NIÑO (SIN GARANTIA)",
+    "p1": 4500,
+    "p4": 5400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "723540565364",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT EAR TMAR1367  (SIN GARANTIA)",
+    "p1": 2100,
+    "p4": 2500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "723540565470",
+    "desc": "AURICULAR VINCHA DISEÑO OSO CON MANOS LIBRES - AR1126 NIÑO (SIN GARANTIA)",
+    "p1": 4500,
+    "p4": 5400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7242",
+    "desc": "CARGADOR INALAMBRICO KARSEN CI-2001 10W MICRO USB - NEGRO  (GARANTIA: 90 DIAS)",
+    "p1": 6100,
+    "p4": 7600,
+    "stock": 10,
+    "agot": false
+  },
+  {
+    "codigo": "7243",
+    "desc": "CARGADOR INALAMBRICO KARSEN CI-2001 10W MICRO USB - BLANCO  (GARANTIA: 90 DIAS)",
+    "p1": 6100,
+    "p4": 7600,
+    "stock": 25,
+    "agot": false
+  },
+  {
+    "codigo": "727908017335",
+    "desc": "CABLE OTG 3 EN 1 IPHONE - USB + SD + MICROSD CARD READER (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "729208239462",
+    "desc": "AURICULAR + PARLANTE + POWER BANK 1500MAH - TG807 - NEGRO - AYV0165 (GARANTIA: 7 DIAS)",
+    "p1": 13100,
+    "p4": 17500,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "729208239486",
+    "desc": "AURICULAR + PARLANTE + POWER BANK 1500MAH - TG807 - AZUL - AYV0165 (GARANTIA: 7 DIAS)",
+    "p1": 13100,
+    "p4": 17500,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "7292082395782",
+    "desc": "AURICULAR VINCHA INFANTIL CORONA ARCOIRIS CON LUCES SUONO - AYV0153 (SIN GARANTIA)",
+    "p1": 10500,
+    "p4": 13300,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "729208239615",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT MODELO M247 P47M - NEGRO AYV0102 (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 9600,
+    "stock": -5,
+    "agot": true
+  },
+  {
+    "codigo": "729208239639",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CUELLO COLGANTE HBS-730 (SIN GARANTIA)",
+    "p1": 4000,
+    "p4": 5400,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "729208240147",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH INFANTIL POP IT SUONO - CELESTE - AYV0191 (SIN GARANTIA)",
+    "p1": 10300,
+    "p4": 12600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "729208240154",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH INFANTIL POP IT SUONO - ROSA - AYV0191 (SIN GARANTIA)",
+    "p1": 10300,
+    "p4": 12600,
+    "stock": -2,
+    "agot": true
+  },
+  {
+    "codigo": "729208240277",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH IN EAR SUONO Y30 - BLANCO (SIN GARANTIA)",
+    "p1": 8500,
+    "p4": 11000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "729208240284",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH IN EAR SUONO Y30 - NEGRO (SIN GARANTIA)",
+    "p1": 8500,
+    "p4": 11000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "729208240581",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH TWS SUONO NEGRO - ESTUCHE DE CARGA INALAMBRICA  (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 10700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "729208240888",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH SUONO - CELESTE AYV0232 (SIN GARANTIA)",
+    "p1": 14400,
+    "p4": 19200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "729208240895",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH SUONO - VERDE AYV0232 (SIN GARANTIA)",
+    "p1": 14400,
+    "p4": 19200,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "729208240963",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT / GATITO HUELLA SUONO - VERDE AYV0234 (SIN GARANTIA)",
+    "p1": 13100,
+    "p4": 17200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "729208240970",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT / GATITO HUELLA SUONO - CELESTE AYV0234 (SIN GARANTIA)",
+    "p1": 13100,
+    "p4": 17200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "729208240987",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH INFANTIL POP IT UNICORNIO - ROSA - AYV0235 (SIN GARANTIA)",
+    "p1": 12000,
+    "p4": 16000,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "729208240994",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH INFANTIL POP IT UNICORNIO - CELESTE AYV0235 (SIN GARANTIA)",
+    "p1": 12000,
+    "p4": 16000,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "729208241106",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT / GATITO POP IT SUONO - ROSA AYV0239 (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 9600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "729208241113",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT / GATITO POP IT SUONO - CELESTE AYV0239 (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 9600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "729208241144",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH DEPORTIVO NECK BAND - NEGRO  (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 10700,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "729208241168",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH DISEÑO PUNTEADO K98 HIFI - NEGRO - AYV0229 (SIN GARANTIA)",
+    "p1": 13300,
+    "p4": 16300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "729208241175",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH DISEÑO PUNTEADO K98 HIFI - ROSA - AYV0229 (SIN GARANTIA)",
+    "p1": 12400,
+    "p4": 15200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "729208241915",
+    "desc": "AURICULAR INALAMBRICO SUONO M28 GAMING AYV0262 - BAJA LATENCIA (SIN GARANTIA)",
+    "p1": 12000,
+    "p4": 15500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "731299174027",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT / GATITO SUONO NEGRO - AYBV0101 (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 9600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "731299174034",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT / GATITO SUONO ROSA - AYV0101 (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 9600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "731299174041",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT / GATITO VIV-23M - VIOLETA  AYV0102 (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 9600,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "731299174058",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT / GATITO MODELO 3 - VERDE (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 9600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "731299174065",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT / GATITO VIV-23M - CELESTE AYV0102 (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 9600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "731299174072",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT MODELO M247 P47M - CELESTE AYV0102 (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 9600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "731299174089",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT MODELO M247 P47M - ROSA AYV0102 (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 9600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "731299174102",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CAT MODELO M247 P47M - VIOLETA AYV0102 (SIN GARANTIA)",
+    "p1": 8000,
+    "p4": 9600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "763571814406",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH + POWER BANK FAN PRO F9-S-PLUS (SIN GARANTIA)",
+    "p1": 9300,
+    "p4": 12000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7792641880204",
+    "desc": "CABLE MINI USB V3 1.5 MTS NETMAK NM-C20 ()  (SIN GARANTIA)",
+    "p1": 1200,
+    "p4": 1400,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "7792641881997",
+    "desc": "CABLE ADAPTADOR TIPO C A SATA 2.5  NETMAK NM-SATA4 (GARANTIA: 10 DIAS)",
+    "p1": 8900,
+    "p4": 10900,
+    "stock": 4,
+    "agot": false
+  },
+  {
+    "codigo": "7795185986203",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CON ENCENDEDOR ELECTRICO EZRA EZ-O70 (GARANTIA: 5 DIAS)",
+    "p1": 15700,
+    "p4": 19800,
+    "stock": 16,
+    "agot": false
+  },
+  {
+    "codigo": "7795234534164",
+    "desc": "CARGADOR 5.1A IBEK QC 3.0 TURBO - ADAPTADOR USB SIN CABLE - IB-5016 (SIN GARANTIA)",
+    "p1": 3800,
+    "p4": 5800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7797026910873",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA STROMBERG STUDIO (GARANTIA: 180 DIAS)",
+    "p1": 16100,
+    "p4": 18400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7797026960144",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH IN EAR STROMBERG DUAL-PRO NEGRO (GARANTIA: 180 DIAS)",
+    "p1": 24300,
+    "p4": 27800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7797026960168",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH IN EAR STROMBERG SHARP BLANCO (GARANTIA: 180 DIAS)",
+    "p1": 13700,
+    "p4": 15700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7797026960311",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA STROMBERG TAG  (GARANTIA: 180 DIAS)",
+    "p1": 14300,
+    "p4": 16300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7797026960755",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA STROMBERG QUIET ANC NEGRO - 40MM (GARANTIA: 180 DIAS)",
+    "p1": 50600,
+    "p4": 56200,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "7797026960762",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA STROMBERG QUIET ANC BLANCO - 40MM (GARANTIA: 180 DIAS)",
+    "p1": 50600,
+    "p4": 56200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137380357",
+    "desc": "AURICULAR NOGA MIC-119 CON MICROFONO PARA PC  (GARANTIA: 30 DIAS)",
+    "p1": 3200,
+    "p4": 4200,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "7798137380784",
+    "desc": "CARGADOR FUENTE MULTIPLE NOGA 500MA - NOGA-105 (GARANTIA: 30 DIAS)",
+    "p1": 9100,
+    "p4": 11000,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "7798137380791",
+    "desc": "CARGADOR FUENTE MULTIPLE NOGA 800MA - NOGA-79 (GARANTIA: 30 DIAS)",
+    "p1": 13000,
+    "p4": 15800,
+    "stock": 28,
+    "agot": false
+  },
+  {
+    "codigo": "7798137705266",
+    "desc": "AURICULAR GAMER NOGA HEX CON MICROFONO 2 FICHA 3.5 (GARANTIA: 30 DIAS)",
+    "p1": 9400,
+    "p4": 11800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137707208",
+    "desc": "AURICULAR GAMER NOGA ST-819 CON MICROFONO 2 FICHAS 3.5 (GARANTIA: 30 DIAS)",
+    "p1": 6100,
+    "p4": 7900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137708793",
+    "desc": "AURICULAR MANOS LIBRES NOGA X-6060  (GARANTIA: 30 DIAS)",
+    "p1": 2900,
+    "p4": 3800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137710420",
+    "desc": "AURICULAR GAMER NOGA 3D ST-FRAME C/ADAPTADOR PARA CONSOLAS  (GARANTIA: 30 DIAS)",
+    "p1": 8800,
+    "p4": 11500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137710741",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA ARIS NG-BT410 V5.0 + EDR (GARANTIA: 30 DIAS)",
+    "p1": 12800,
+    "p4": 16700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137712349",
+    "desc": "SOPORTE CELULAR NOGA NG-HOLD7 - PARA ESPEJO RETROVISOR  (GARANTIA: 30 DIAS)",
+    "p1": 4500,
+    "p4": 5900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137713889",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 2 BLANCO  (GARANTIA: 30 DIAS)",
+    "p1": 10300,
+    "p4": 13000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137713964",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA ARIS NG-BT469 V3.0 (GARANTIA: 30 DIAS)",
+    "p1": 12000,
+    "p4": 15600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137714053",
+    "desc": "AURICULAR GAMER NOGA ST-RAGE USB 7.1 CON MICRÓFONO  (GARANTIA: 30 DIAS)",
+    "p1": 24200,
+    "p4": 30500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137714077",
+    "desc": "AURICULAR GAMER NOGA ST-HYDRA CON MICROFONO Y LED  (GARANTIA: 30 DIAS)",
+    "p1": 24000,
+    "p4": 31400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137714107",
+    "desc": "AURICULAR GAMER NOGA ST-GRID CON MICROFONO Y LED  (GARANTIA: 30 DIAS)",
+    "p1": 17500,
+    "p4": 22000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137714121",
+    "desc": "AURICULAR GAMER NOGA ST-ONIX CON MICROFONO  CON LED VIBRACION  (GARANTIA: 30 DIAS)",
+    "p1": 29200,
+    "p4": 38200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137714374",
+    "desc": "AURICULAR GAMER NOGA ST-1688 C/ ADAPTADOR PARA CONSOLAS  (GARANTIA: 30 DIAS)",
+    "p1": 8900,
+    "p4": 11600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137714510",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BT300 SPORT FIT  (GARANTIA: 30 DIAS)",
+    "p1": 4700,
+    "p4": 6100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137714657",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 3  (GARANTIA: 30 DIAS)",
+    "p1": 18700,
+    "p4": 24900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137714671",
+    "desc": "AURICULAR NOGA ARIS NG-A50BT HIFI - ALTA DEFINICION BLUETHOOT (GARANTIA: 30 DIAS)",
+    "p1": 26200,
+    "p4": 34300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137714794",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 2 NEGRO  (GARANTIA: 30 DIAS)",
+    "p1": 10300,
+    "p4": 13000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137715159",
+    "desc": "AURICULAR GAMER NOGA STORMER COMBAT 7.1 USB  (GARANTIA: 30 DIAS)",
+    "p1": 25500,
+    "p4": 33300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137715449",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA ARIS NG-A26BT  (GARANTIA: 30 DIAS)",
+    "p1": 10300,
+    "p4": 13400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137715463",
+    "desc": "AURICULAR GAMER NOGA ST-1530 C/MICROFONO FICHA 3.5 X 1 (GARANTIA: 30 DIAS)",
+    "p1": 3100,
+    "p4": 4000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137716262",
+    "desc": "AURICULAR NOGA NG-904 CON MANOS LIBRES - PC / PS4 / CEL EXTRA BASS (GARANTIA: 30 DIAS)",
+    "p1": 4700,
+    "p4": 6100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137716521",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 5  (GARANTIA: 30 DIAS)",
+    "p1": 12000,
+    "p4": 16000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137716620",
+    "desc": "AURICULAR NOGA ARIS NG-A40BT CON CANCELADOR DE RUIDOS  (GARANTIA: 30 DIAS)",
+    "p1": 29300,
+    "p4": 38300,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "7798137716699",
+    "desc": "KIT GAMER NOGA 4 EN 1 NKB-407 MOUSE 4D 1200 DPI COMBO (GARANTIA: 30 DIAS)",
+    "p1": 12100,
+    "p4": 15800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137716835",
+    "desc": "AURICULAR NOGA UNICORNIO UX-100 CON MANOS LIBRES  (GARANTIA: 30 DIAS)",
+    "p1": 8600,
+    "p4": 11200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137716996",
+    "desc": "SOPORTE TABLET PARA APOYA CABEZA NG-HOLDPAD - 7\" A 10\" NOGA (GARANTIA: 30 DIAS)",
+    "p1": 6700,
+    "p4": 8800,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "7798137717115",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-TWINS 12 SPORT FIT  (GARANTIA: 30 DIAS)",
+    "p1": 22400,
+    "p4": 29900,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "7798137717283",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 14 TWINS PRO BLANCO (GARANTIA: 30 DIAS)",
+    "p1": 14300,
+    "p4": 19000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717290",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 14 TWINS PRO NEGRO (GARANTIA: 30 DIAS)",
+    "p1": 14300,
+    "p4": 19000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717306",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 15 SPORT FIT  (GARANTIA: 30 DIAS)",
+    "p1": 22400,
+    "p4": 29900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717399",
+    "desc": "AURICULAR GAMER 7.1 USB VIRTUAL CHANNEL LED NOGA MISFIT  (GARANTIA: 30 DIAS)",
+    "p1": 13600,
+    "p4": 17700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717641",
+    "desc": "AURICULAR GAMER NOGA ST-8106 CON LEDS RGB 1 FICHA 3.5 (GARANTIA: 30 DIAS)",
+    "p1": 7000,
+    "p4": 9200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717658",
+    "desc": "AURICULAR GAMER NOGA ST-8108 CON LEDS RGB 1 FICHA 3.5 (GARANTIA: 30 DIAS)",
+    "p1": 12100,
+    "p4": 15800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717719",
+    "desc": "AURICULAR GAMER NOGA  ST-8101 1 FICHA 3.5 (GARANTIA: 30 DIAS)",
+    "p1": 8300,
+    "p4": 10800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717726",
+    "desc": "AURICULAR GAMER NOGA  ST-8104  1 FICHA 3.5 (GARANTIA: 30 DIAS)",
+    "p1": 5900,
+    "p4": 7700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717733",
+    "desc": "AURICULAR GAMER NOGA ST-8109 7.1 CON LED + CABLE CORDON 1 FICHA USB (GARANTIA: 30 DIAS)",
+    "p1": 12300,
+    "p4": 16000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717863",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 5S TOUCH CONTROL GRIS (GARANTIA: 30 DIAS)",
+    "p1": 12000,
+    "p4": 16000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717870",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 5S TOUCH CONTROL NEGRO (GARANTIA: 30 DIAS)",
+    "p1": 12000,
+    "p4": 16000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717887",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 5S TOUCH CONTROL ROSA (GARANTIA: 30 DIAS)",
+    "p1": 12000,
+    "p4": 16000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717894",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 5S TOUCH CONTROL CELESTE (GARANTIA: 30 DIAS)",
+    "p1": 12000,
+    "p4": 16000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717900",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 5S TOUCH CONTROL AMARILLO (GARANTIA: 30 DIAS)",
+    "p1": 12000,
+    "p4": 16000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717917",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 5S TOUCH CONTROL VERDE (GARANTIA: 30 DIAS)",
+    "p1": 12000,
+    "p4": 16000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717924",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 5S TOUCH CONTROL AZUL (GARANTIA: 30 DIAS)",
+    "p1": 12000,
+    "p4": 16000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137717948",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 14 TWINS PRO ROSA (GARANTIA: 30 DIAS)",
+    "p1": 14300,
+    "p4": 19000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137718389",
+    "desc": "CABLE USB TIPO C A LIGHTNING 2MTS NOGA (SIN GARANTIA)",
+    "p1": 3700,
+    "p4": 4700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137718457",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 22 ROSA  (GARANTIA: 30 DIAS)",
+    "p1": 12500,
+    "p4": 16600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137718464",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 22 BLANCO  (GARANTIA: 30 DIAS)",
+    "p1": 12500,
+    "p4": 16600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137718891",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 24 NEGRO  (GARANTIA: 30 DIAS)",
+    "p1": 21400,
+    "p4": 28500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137718907",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 24 DORADO  (GARANTIA: 30 DIAS)",
+    "p1": 21400,
+    "p4": 28500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137718914",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 24 ROJO  (GARANTIA: 30 DIAS)",
+    "p1": 21400,
+    "p4": 28500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137718921",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 24 BLANCO  (GARANTIA: 30 DIAS)",
+    "p1": 21400,
+    "p4": 28500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137719546",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 13 CELESTE  (GARANTIA: 30 DIAS)",
+    "p1": 12500,
+    "p4": 15700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137719553",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 13 VERDE  (GARANTIA: 30 DIAS)",
+    "p1": 12500,
+    "p4": 15700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137719560",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 13 ROSA  (GARANTIA: 30 DIAS)",
+    "p1": 12500,
+    "p4": 15700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137719577",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 13 AMARILLO  (GARANTIA: 30 DIAS)",
+    "p1": 12500,
+    "p4": 15700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137719584",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 13 BLANCO  (GARANTIA: 30 DIAS)",
+    "p1": 12500,
+    "p4": 15700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137720047",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH GAMING LOW LATENCY NOGA NGX-BTWINS4 (GARANTIA: 30 DIAS)",
+    "p1": 16200,
+    "p4": 19700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137720337",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 5S TOUCH CONTROL ROJO (GARANTIA: 30 DIAS)",
+    "p1": 12000,
+    "p4": 16000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137720344",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA VINCHA NG-A100BT BLANCO / AIRPOD MAX (GARANTIA: 30 DIAS)",
+    "p1": 17800,
+    "p4": 23300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137720351",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA VINCHA NG-A100BT VERDE / AIRPOD MAX (GARANTIA: 30 DIAS)",
+    "p1": 17800,
+    "p4": 23300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137720368",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA VINCHA NG-A100BT ROSA / AIRPOD MAX (GARANTIA: 30 DIAS)",
+    "p1": 17800,
+    "p4": 23300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137720375",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA VINCHA NG-A100BT AZUL / AIRPOD MAX (GARANTIA: 30 DIAS)",
+    "p1": 17800,
+    "p4": 23300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137720399",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 14 TWINS PRO VERDE (GARANTIA: 30 DIAS)",
+    "p1": 14300,
+    "p4": 19000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137722188",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH TIPO AIRPODS PRO NOGA NG-BTWINS28 (GARANTIA: 30 DIAS)",
+    "p1": 15000,
+    "p4": 18200,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "7798137722362",
+    "desc": "CARGADOR FUENTE UNIVERSAL 3.3A USB TIPO C MACBOOK NOTEBOOK 65W NOGA NGA-40 (GARANTIA: 30 DIAS)",
+    "p1": 31700,
+    "p4": 38500,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "7798137722379",
+    "desc": "CARGADOR FUENTE UNIVERSAL 4.5A USB TIPO C MACBOOK NOTEBOOK 90W NOGA NGA-902UL (GARANTIA: 30 DIAS)",
+    "p1": 37600,
+    "p4": 45600,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "7798137722386",
+    "desc": "CARGADOR FUENTE UNIVERSAL 5A USB TIPO C MACBOOK NOTEBOOK 96W NOGA NGA-130A (GARANTIA: 30 DIAS)",
+    "p1": 38200,
+    "p4": 46400,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "7798137722843",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS33 BLANCO (GARANTIA: 30 DIAS)",
+    "p1": 11000,
+    "p4": 13400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137722850",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS33 NEGRO (GARANTIA: 30 DIAS)",
+    "p1": 11000,
+    "p4": 13400,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "7798137725219",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH DEPORTIVO NOGA NG-BTWINS42 (GARANTIA: 30 DIAS)",
+    "p1": 20100,
+    "p4": 24400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137725288",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CON PANTALLA TOUCH NOGA NG-TWS01 (GARANTIA: 30 DIAS)",
+    "p1": 28500,
+    "p4": 34600,
+    "stock": 4,
+    "agot": false
+  },
+  {
+    "codigo": "7798137725783",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH TRANSPARENTES NOGA NG-BTWINS48 - NEGRO (GARANTIA: 30 DIAS)",
+    "p1": 9800,
+    "p4": 11800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137725806",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH TRANSPARENTES NOGA NG-BTWINS48 - ROSA (GARANTIA: 30 DIAS)",
+    "p1": 9800,
+    "p4": 11800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137725813",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH TRANSPARENTES NOGA NG-BTWINS48 - CELESTE (GARANTIA: 30 DIAS)",
+    "p1": 9800,
+    "p4": 11800,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "7798137725899",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH TIPO AIRPODS NOGA NG-BTWINS51 - BLANCO (GARANTIA: 30 DIAS)",
+    "p1": 9800,
+    "p4": 11800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798137725905",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH TIPO AIRPODS NOGA NG-BTWINS51 - NEGRO (GARANTIA: 30 DIAS)",
+    "p1": 9800,
+    "p4": 11800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145000308",
+    "desc": "SOPORTE TV 14 A 55 BRAZO DOBLE DINAX DX-STVD117 (SIN GARANTIA)",
+    "p1": 13100,
+    "p4": 15900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145000339",
+    "desc": "SOPORTE TV 14 A 42 FIJO DINAX DX-STVF1442 (SIN GARANTIA)",
+    "p1": 5300,
+    "p4": 6400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145000346",
+    "desc": "SOPORTE TV 26 A 55 FIJO DINAX DX-STVF2655 (SIN GARANTIA)",
+    "p1": 7300,
+    "p4": 8900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145001466",
+    "desc": "AURICULAR GAMER DINAX DX100094 CON MICROFONO / PS4 FICHA 3.5 (SIN GARANTIA)",
+    "p1": 2100,
+    "p4": 2600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145002456",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH P47 DINAX DX-SAUWI47 (SIN GARANTIA)",
+    "p1": 6300,
+    "p4": 7600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145002463",
+    "desc": "TRIPODE 1.20 MT PARA CELULAR / CAMARA / DINAX MT130 (SIN GARANTIA)",
+    "p1": 7600,
+    "p4": 9200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145002920",
+    "desc": "SOPORTE AUTO UNIVERSAL IMANTADO DINAX DX-HOL-0017 HOLDER CELULAR (SIN GARANTIA)",
+    "p1": 1200,
+    "p4": 1400,
+    "stock": 157,
+    "agot": false
+  },
+  {
+    "codigo": "7798145002975",
+    "desc": "CARGADOR NOTEBOOK UNIVERSAL 10 FICHAS DINAX PSU2400513 (GARANTIA: 5 DIAS)",
+    "p1": 7500,
+    "p4": 9100,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "7798145003859",
+    "desc": "AURICULAR PC DINAX DX100047 CON MICROFONO 2 FICHAS 3.5 (SIN GARANTIA)",
+    "p1": 4900,
+    "p4": 5900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145004672",
+    "desc": "AURICULAR GAMER DINAX DX-AURIMIC145 CON MICROFONO / PS4 FICHA 3.5 (SIN GARANTIA)",
+    "p1": 1800,
+    "p4": 2200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145004696",
+    "desc": "AURICULAR DINAX UNICORNIO MP3 DX-AURUNI (SIN GARANTIA)",
+    "p1": 13500,
+    "p4": 16400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145004702",
+    "desc": "AURICULAR DINAX MAGIC UNICORNIO PLUG 3.5 + CABLE 1.2 MTS MP3 (SIN GARANTIA)",
+    "p1": 5100,
+    "p4": 6200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145004719",
+    "desc": "AURICULAR DINAX MAGIC SIRENA PLUG 3.5 + CABLE 1.2 MTS MP3 (SIN GARANTIA)",
+    "p1": 5100,
+    "p4": 6200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145005099",
+    "desc": "PALO SELFIE STICK BLUETHOOT + TRIPODE DINAX DX-SELF72 (SIN GARANTIA)",
+    "p1": 7500,
+    "p4": 9100,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "7798145005174",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH SPORT PARSOM SPORT PR-AUBLUE35 CON OREJERA (SIN GARANTIA)",
+    "p1": 3800,
+    "p4": 4600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145005181",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH SPORT PARSOM SPORT PR-AUBLUE20 (SIN GARANTIA)",
+    "p1": 3600,
+    "p4": 4300,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "7798145005198",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH SPORT PARSOM PR-AUBLUE46 SPORT (SIN GARANTIA)",
+    "p1": 3300,
+    "p4": 4000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145005471",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH DINAX MAGICOS CAT RGB LED DX-AUMAGIN (SIN GARANTIA)",
+    "p1": 11300,
+    "p4": 13700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145005488",
+    "desc": "TRIPODE PARA PARLANTES PROFESIONAL DINAX 1.80 MTS (SIN GARANTIA)",
+    "p1": 20000,
+    "p4": 24200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145005570",
+    "desc": "SOPORTE EXHIBIDOR UNIVERSAL DINAX  CELULAR (SIN GARANTIA)",
+    "p1": 1100,
+    "p4": 1300,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "7798145005600",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH P47 CAT MAGICO DINAX (SIN GARANTIA)",
+    "p1": 11300,
+    "p4": 13700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145005730",
+    "desc": "SOPORTE CELULAR ESCRITORIO DINAX DX-HOLDESK1 (SIN GARANTIA)",
+    "p1": 3200,
+    "p4": 3800,
+    "stock": 4,
+    "agot": false
+  },
+  {
+    "codigo": "7798145005747",
+    "desc": "SOPORTE HOLDER CELULAR ESCRITORIO DINAX DX-HOLDESK9 (SIN GARANTIA)",
+    "p1": 2100,
+    "p4": 2600,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "7798145005754",
+    "desc": "SOPORTE CELULAR ESRITORIO PLEGABLE DINAX DX-HOLPLE3 (SIN GARANTIA)",
+    "p1": 1500,
+    "p4": 1800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145005860",
+    "desc": "SOPORTE HOLDER FLEXIBLE ESCRITORIO UNIVERSAL DINAX DX-HOLPIN37 (SIN GARANTIA)",
+    "p1": 1500,
+    "p4": 1800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145005877",
+    "desc": "SOPORTE HOLDER FLEXIBLE ESCRITORIO REFORZADO UNIVERSAL DINAX DX-HOLPIN88 (SIN GARANTIA)",
+    "p1": 1500,
+    "p4": 1800,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "7798145005969",
+    "desc": "POP SOCKET CELULAR DINAX  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 600,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "7798145005983",
+    "desc": "SOPORTE AUTO UNIVERSAL DINAX DX-HOL2P HOLDER CELULAR (SIN GARANTIA)",
+    "p1": 1500,
+    "p4": 1800,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "7798145006003",
+    "desc": "SOPORTE AUTO UNIVERSAL BRAZO FLEXIBLE DINAX DX-HOLUNIP HOLDER CELULAR (SIN GARANTIA)",
+    "p1": 1500,
+    "p4": 1800,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "7798145006010",
+    "desc": "CARGADOR 12V 3.1A PARSOM / DINAX -BOLSA AUTO (SIN GARANTIA)",
+    "p1": 1500,
+    "p4": 1800,
+    "stock": 212,
+    "agot": false
+  },
+  {
+    "codigo": "7798145006638",
+    "desc": "CABLE ADAPTADOR OTG V8 MICRO USB DINAX USB (SIN GARANTIA)",
+    "p1": 1200,
+    "p4": 1500,
+    "stock": 64,
+    "agot": false
+  },
+  {
+    "codigo": "7798145006669",
+    "desc": "SOPORTE PLEGABLE PARA NOTEBOOK DINAX  (SIN GARANTIA)",
+    "p1": 2800,
+    "p4": 3300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145006690",
+    "desc": "TRIPODE SELFIE AUTOMATICO 360 DINAX DX-HOL360  (SIN GARANTIA)",
+    "p1": 8800,
+    "p4": 10700,
+    "stock": 26,
+    "agot": false
+  },
+  {
+    "codigo": "7798145006829",
+    "desc": "AURICULAR OREJA DE CONEJO - RABBIT DX-AURABBIT (SIN GARANTIA)",
+    "p1": 3300,
+    "p4": 3900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145006850",
+    "desc": "AURICULAR INALAMBRICO VINCHA DINAX DXAUDEP09 SIMIL AIRPODS MAX - COLORES VARIOS (GARANTIA: 5 DIAS)",
+    "p1": 6300,
+    "p4": 7600,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007154",
+    "desc": "TRIPODE SELFIE DOBLE CON ARO DE LUZ - DINAX  (SIN GARANTIA)",
+    "p1": 8800,
+    "p4": 10700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007161",
+    "desc": "TRIPODE SELFIE DOBLE - DINAX  (SIN GARANTIA)",
+    "p1": 2800,
+    "p4": 3400,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "7798145007260",
+    "desc": "AURICULAR IN EAR DINAX  DX-AUREAR96 (SIN GARANTIA)",
+    "p1": 400,
+    "p4": 500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007307",
+    "desc": "TRIPODE PARA CELULAR EN BOLSA DINAX DX-3PHOL (SIN GARANTIA)",
+    "p1": 1500,
+    "p4": 1800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007383",
+    "desc": "CARGADOR 4.2A MICRO USB V8 DINAX C/CABLE DESMONTABLE + 2 USB DX1-CAR-4.2-V8 (SIN GARANTIA)",
+    "p1": 2600,
+    "p4": 3100,
+    "stock": -50,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007390",
+    "desc": "CARGADOR 4.2A TIPO C DINAX C/CABLE DESMONTABLE + 2 USB DX1-CAR-4.2-TC (SIN GARANTIA)",
+    "p1": 2900,
+    "p4": 3500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007413",
+    "desc": "CARGADOR 12V 3.1A DINAX BOLSA AUTO (SIN GARANTIA)",
+    "p1": 1500,
+    "p4": 1800,
+    "stock": 77,
+    "agot": false
+  },
+  {
+    "codigo": "7798145007437",
+    "desc": "AURICULAR AIRPODS DINAX AURIFLY02 DX-AURIFLY2 (SIN GARANTIA)",
+    "p1": 15300,
+    "p4": 18500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007444",
+    "desc": "AURICULAR AIRPODS DINAX AURIFLY03 DX-AURIFLY3 (SIN GARANTIA)",
+    "p1": 15300,
+    "p4": 18500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007451",
+    "desc": "AURICULAR AIRPODS DINAX AURIFLY04 DX-AURIFLY4 (SIN GARANTIA)",
+    "p1": 10400,
+    "p4": 12700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007468",
+    "desc": "AURICULAR AIRPODS DINAX AURIFLY01 DX-AURIFLY1 (SIN GARANTIA)",
+    "p1": 9600,
+    "p4": 11700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007475",
+    "desc": "AURICULAR AIRPODS DINAX GAMING PODS 01 DX-GPODSONE (SIN GARANTIA)",
+    "p1": 10900,
+    "p4": 13200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007482",
+    "desc": "AURICULAR AIRPODS DINAX GAMING PODS 02 DX-GPODSTWO (SIN GARANTIA)",
+    "p1": 12300,
+    "p4": 15000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007512",
+    "desc": "AURICULAR IN EAR DINAX TIPO CIERRE DX-AUCIERRE (SIN GARANTIA)",
+    "p1": 1300,
+    "p4": 1600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007550",
+    "desc": "AURICULAR AIRPODS DINAX AURIFLY05 DX-AURIFLY5 (SIN GARANTIA)",
+    "p1": 5900,
+    "p4": 7100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007789",
+    "desc": "AURICULAR MANOS LIBRES DINAX IN-EAR DX-EARMIC97 (SIN GARANTIA)",
+    "p1": 1200,
+    "p4": 1400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007871",
+    "desc": "CARGADOR INALAMBRICO DINAX DX-BACARIN2 (SIN GARANTIA)",
+    "p1": 4600,
+    "p4": 5600,
+    "stock": 20,
+    "agot": false
+  },
+  {
+    "codigo": "7798145007888",
+    "desc": "AURICULAR MANOS LIBRES DINAX IN-EAR DX-EAR11MIC (SIN GARANTIA)",
+    "p1": 1200,
+    "p4": 1400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145007987",
+    "desc": "CABLE USB TIPO C 5.1A 2MTS - DINAX DX-2M46TC (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": -14,
+    "agot": true
+  },
+  {
+    "codigo": "7798145008007",
+    "desc": "CABLE USB V8 5.1A 2MTS MICRO USB - DINAX DX-2M46V8  (SIN GARANTIA)",
+    "p1": 1600,
+    "p4": 1900,
+    "stock": -8,
+    "agot": true
+  },
+  {
+    "codigo": "7798145008113",
+    "desc": "AURICULAR AIRPODS DINAX AURIFLY06 DX-AURIFLY6 (SIN GARANTIA)",
+    "p1": 7300,
+    "p4": 8900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145008120",
+    "desc": "AURICULAR AIRPODS DINAX AURIFLY07 DX-AURIFLY7 (SIN GARANTIA)",
+    "p1": 13400,
+    "p4": 16300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145008137",
+    "desc": "AURICULAR AIRPODS DINAX AURIFLY PRO11 DX-AURIPRO11 (SIN GARANTIA)",
+    "p1": 15900,
+    "p4": 19300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145008144",
+    "desc": "AURICULAR AIRPODS DINAX AURIFLY PRO12 DX-AURIPRO12 (SIN GARANTIA)",
+    "p1": 15900,
+    "p4": 19300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145008366",
+    "desc": "CARGADOR 3.0A V8 DINAX C/CABLE DESMONTABLE DX-CAR-3.0-V8 (SIN GARANTIA)",
+    "p1": 1700,
+    "p4": 2000,
+    "stock": -7,
+    "agot": true
+  },
+  {
+    "codigo": "7798145008373",
+    "desc": "CARGADOR 3.0A TIPO C DINAX C/CABLE DESMONTABLE DX-CAR-3.0-TC (SIN GARANTIA)",
+    "p1": 2000,
+    "p4": 2500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145008601",
+    "desc": "CABLE TIPO C A TIPO C 4.2A 1M - DINAX DX-TCCABTC (SIN GARANTIA)",
+    "p1": 1400,
+    "p4": 1600,
+    "stock": 14,
+    "agot": false
+  },
+  {
+    "codigo": "7798145009219",
+    "desc": "CARGADOR 12V 3.1A - 2 ENTRADAS USB DINAX DX-AUT12V - SUELTO (SIN GARANTIA)",
+    "p1": 1000,
+    "p4": 1400,
+    "stock": 385,
+    "agot": false
+  },
+  {
+    "codigo": "7798145009455",
+    "desc": "SEPORTE CELULAR UNIVERSAL PARA BICICLETA DINAX DX-HOLCELBICI (SIN GARANTIA)",
+    "p1": 5700,
+    "p4": 7000,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "7798145009875",
+    "desc": "CARGADOR 12V DINAX 4.8A - 2 ENTRADAS + CABLE MICRO USB V8 (SIN GARANTIA)",
+    "p1": 3300,
+    "p4": 4000,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "7798145009936",
+    "desc": "CABLE USB V8 MICRO USB 5.1A 1MT CARGA RAPIDA DINAX - DX61MCABV8 (SIN GARANTIA)",
+    "p1": 900,
+    "p4": 1100,
+    "stock": -2,
+    "agot": true
+  },
+  {
+    "codigo": "7798145009967",
+    "desc": "CABLE USB V8 MICRO USB 5.1A CARGA RAPIDA 1M ACORDONADO DINAX DX-6V8CAB - COLORES VARIOS (SIN GARANTIA)",
+    "p1": 1200,
+    "p4": 1500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145010079",
+    "desc": "SOPORTE DE CELULAR PARA VIDEOCONFERENCIAS CON LUZ DINAX DX-1HOLCEL4 (GARANTIA: 5 DIAS)",
+    "p1": 17400,
+    "p4": 21100,
+    "stock": 89,
+    "agot": false
+  },
+  {
+    "codigo": "7798145010987",
+    "desc": "CARGADOR INALAMBRICO 3 EN 1 DINAX DX-CAR3EN1 (SIN GARANTIA)",
+    "p1": 16000,
+    "p4": 19400,
+    "stock": 36,
+    "agot": false
+  },
+  {
+    "codigo": "7798145011045",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH DINAX AURIFLY PRO17 (GARANTIA: 5 DIAS)",
+    "p1": 7000,
+    "p4": 8400,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "7798145012196",
+    "desc": "SOPORTE HOLDER UNIVERSAL PARA ESPEJO RETROVISOR DINAX DX-CELHOL (SIN GARANTIA)",
+    "p1": 3300,
+    "p4": 3900,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "7798145012202",
+    "desc": "SOPORTE CELULAR PARA AUTO UNIVERSAL DINAX DX-HOLCEL02 (SIN GARANTIA)",
+    "p1": 3600,
+    "p4": 4300,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "7798145012233",
+    "desc": "SOPORTE CELULAR UNIVERSAL PARA ESPEJO RETROVISOR DINAX DX-AUSE002 (SIN GARANTIA)",
+    "p1": 3300,
+    "p4": 3900,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "7798145012608",
+    "desc": "CABLE USB TIPO C 5.1A CARGA RAPIDA 1M REFORZADO DINAX - DX-CABTC5A (SIN GARANTIA)",
+    "p1": 1000,
+    "p4": 1200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145012721",
+    "desc": "CABLE USB TIPO C 5.1A CARGA RAPIDA 1M ACORDONADO DINAX DX-1MCABTC - COLORES VARIOS (SIN GARANTIA)",
+    "p1": 1100,
+    "p4": 1300,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "7798145012905",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH ULTRAPODS MAX - COLORES VARIOS (SIN GARANTIA)",
+    "p1": 7600,
+    "p4": 10100,
+    "stock": 177,
+    "agot": false
+  },
+  {
+    "codigo": "7798145012950",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH DINAX AURIFLY PRO19 (GARANTIA: 5 DIAS)",
+    "p1": 8400,
+    "p4": 10100,
+    "stock": 33,
+    "agot": false
+  },
+  {
+    "codigo": "7798145012981",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH DINAX AURIFLY PRO24 (GARANTIA: 5 DIAS)",
+    "p1": 5600,
+    "p4": 6800,
+    "stock": 10,
+    "agot": false
+  },
+  {
+    "codigo": "7798145013032",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CON PANTALLA TOUCH (GARANTIA: 5 DIAS)",
+    "p1": 24000,
+    "p4": 29200,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "7798145013124",
+    "desc": "CABLE USB TIPO C A TIPO C BLANCO CAB-TC030 (SIN GARANTIA)",
+    "p1": 1700,
+    "p4": 2000,
+    "stock": 221,
+    "agot": false
+  },
+  {
+    "codigo": "7798145013148",
+    "desc": "CARGADOR CABEZAL TIPO C 15W PR1-CAR-5.1-TC - IPHONE (SIN GARANTIA)",
+    "p1": 4300,
+    "p4": 5300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145013155",
+    "desc": "CABLE USB TIPO C A LIGHTNING IPHONE BLANCO CAB-CTOIP75 (SIN GARANTIA)",
+    "p1": 1200,
+    "p4": 1400,
+    "stock": -5,
+    "agot": true
+  },
+  {
+    "codigo": "7798145014169",
+    "desc": "CARGADOR 5.1A CARGA RAPIDA ENTRADA USB + TC PD50W CON CABLE TIPO C DINAX PR2CAR51TC (SIN GARANTIA)",
+    "p1": 5700,
+    "p4": 6900,
+    "stock": -3,
+    "agot": true
+  },
+  {
+    "codigo": "7798145014183",
+    "desc": "CARGADOR 4.2A CARGA RAPIDA ENTRADA TIPO C PD50W CON CABLE TC DINAX SNCAR42TC (SIN GARANTIA)",
+    "p1": 4100,
+    "p4": 4900,
+    "stock": -2,
+    "agot": true
+  },
+  {
+    "codigo": "7798145014190",
+    "desc": "CARGADOR 5.1A CARGA RAPIDA ENTRADA TIPO C PD50W CON CABLE TC A LIGHTNING DINAX SN1CAR51TC (SIN GARANTIA)",
+    "p1": 5200,
+    "p4": 6400,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "7798145014213",
+    "desc": "CARGADOR 4.2A CARGA RAPIDA ENTRADA USB + TC PD50W CON CABLE TIPO C DINAX PR2CAR42TC (SIN GARANTIA)",
+    "p1": 4600,
+    "p4": 5600,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "7798145014237",
+    "desc": "CARGADOR 4.2A CARGA RAPIDA ENTRADA TIPO C PD50W CON CABLE TC DINAX SN1CAR42TC (SIN GARANTIA)",
+    "p1": 4100,
+    "p4": 4900,
+    "stock": 4,
+    "agot": false
+  },
+  {
+    "codigo": "7798145014244",
+    "desc": "CARGADOR 4.2A CARGA RAPIDA ENTRADA TIPO C PD50W CON CABLE TC A LIGHTNING DINAX SN2CAR42TC (SIN GARANTIA)",
+    "p1": 4100,
+    "p4": 4900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145014565",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CON INDICADOR DE CARGA DINAX DX-AURIPRO20 (GARANTIA: 5 DIAS)",
+    "p1": 10500,
+    "p4": 12700,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "7798145014619",
+    "desc": "SOPORTE PROYECTOR STREAMING TRIPODE + FLASH LED + MICROFONO DINAX DX-HOLMIC49 (GARANTIA: 15 DIAS)",
+    "p1": 8900,
+    "p4": 10800,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "7798145014640",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA DINAX DX-AURIBLU47 P47 (GARANTIA: 5 DIAS)",
+    "p1": 4900,
+    "p4": 6000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145014770",
+    "desc": "KIT RELOJ SMARTWATCH ULTRA ZT22 + AURICULAR INALAMBRICO ULTRAPODS (GARANTIA: CONSULTAR)",
+    "p1": 21900,
+    "p4": 26600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145014794",
+    "desc": "KIT RELOJ SMARTWATCH ULTRA 2 + AURICULAR INALAMBRICO VINCHA P9 (GARANTIA: CONSULTAR)",
+    "p1": 24900,
+    "p4": 30200,
+    "stock": 40,
+    "agot": false
+  },
+  {
+    "codigo": "7798145015203",
+    "desc": "PALO DE SELFIE CON TRIPODE 19CM DINAX DX-SELSTRI (SIN GARANTIA)",
+    "p1": 6900,
+    "p4": 8400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145015388",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH ULTRAPODS PRO - COLORES VARIOS (SIN GARANTIA)",
+    "p1": 6300,
+    "p4": 7700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7798145016682",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH CON PANTALLA TOUCH AURA21 (GARANTIA: 5 DIAS)",
+    "p1": 18600,
+    "p4": 22600,
+    "stock": 63,
+    "agot": false
+  },
+  {
+    "codigo": "7798145019584",
+    "desc": "TRIPODE PLEGABLE 1.02 MTS - AJUSTABLE - CELULARES - CAMARAS - UNIVERSAL (SIN GARANTIA)",
+    "p1": 6800,
+    "p4": 8900,
+    "stock": 92,
+    "agot": false
+  },
+  {
+    "codigo": "7798145020023",
+    "desc": "AURICULAR BLUETHOOT INALAMBRICO CON PANTALLA DINAX DX-AUCHER01 (GARANTIA: 5 DIAS)",
+    "p1": 8000,
+    "p4": 9700,
+    "stock": 12,
+    "agot": false
+  },
+  {
+    "codigo": "7798145024311",
+    "desc": "SOPORTE TOUCH CELULAR MANUBRIO MOTO BICICLETA WATERPROOF ZXC6.3 (SIN GARANTIA)",
+    "p1": 7400,
+    "p4": 9800,
+    "stock": 436,
+    "agot": false
+  },
+  {
+    "codigo": "7858816021800",
+    "desc": "MANOS LIBRES AURICULAR JBL T180A IN EAR (GARANTIA: CONSULTAR)",
+    "p1": 200,
+    "p4": 400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "7893095800012",
+    "desc": "CARGADOR 220V CABEZAL SAMSUNG 65W - CARGA ULTRA RAPIDA (SIN GARANTIA)",
+    "p1": 7400,
+    "p4": 9300,
+    "stock": 68,
+    "agot": false
+  },
+  {
+    "codigo": "7893095800029",
+    "desc": "CARGADOR 220V CABEZAL SAMSUNG 120W + CABLE TIPO C - CARGA ULTRA RAPIDA (SIN GARANTIA)",
+    "p1": 8800,
+    "p4": 10800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "790757823037",
+    "desc": "AURICULAR MANOS LIBRES SOMOSTEC ST-1 IN EAR (SIN GARANTIA)",
+    "p1": 1300,
+    "p4": 1800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "790757823174",
+    "desc": "AURICULAR MANOS LIBRES SOMOSTEC ST-11 CON CONTROL DE VOLUMEN (SIN GARANTIA)",
+    "p1": 1200,
+    "p4": 1700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "8007229334420",
+    "desc": "MANOS LIBRES AURICULAR SAMSUNG YJ / HS330 CALIDAD ORIGINAL EN CAJA (SIN GARANTIA)",
+    "p1": 1400,
+    "p4": 2100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "810731011267",
+    "desc": "AURICULAR GAMMER KANJI LOUD  (GARANTIA: 90 DIAS)",
+    "p1": 9100,
+    "p4": 13800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "810731011268",
+    "desc": "AURICULAR GAMMER KANJI SMOOTH CABLE LUZ  (GARANTIA: 90 DIAS)",
+    "p1": 11500,
+    "p4": 17400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "8107370143039",
+    "desc": "CARGADOR 5A ADAPTADOR USB CARGA RAPIDA+ 4 SALIDAS USB (GARANTIA: 90 DIAS)",
+    "p1": 8100,
+    "p4": 12000,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "8107370143923",
+    "desc": "SOPORTE TV 26 A 55 FIJO KANJI HOME KJH-WMF55 (SIN GARANTIA)",
+    "p1": 7200,
+    "p4": 10600,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "8107370143985",
+    "desc": "SOPORTE TV 14 A 55 BRAZO DOBLE KANJI HOME KJH-WMBD55 REFORZADO  (GARANTIA: 90 DIAS)",
+    "p1": 18200,
+    "p4": 22900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "8107370145224",
+    "desc": "SOPORTE TV 32 A 70 BRAZO SIMPLE KANJI HOME KJH-WMBS70  (GARANTIA: 90 DIAS)",
+    "p1": 33300,
+    "p4": 41900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "8420231212058",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA CABEZAL LUMINOSO DISCO PULSE PG580 - NEGRO (GARANTIA: 5 DIAS)",
+    "p1": 19300,
+    "p4": 23500,
+    "stock": 15,
+    "agot": false
+  },
+  {
+    "codigo": "8512526555626",
+    "desc": "JOYSTICK PS2 INALAMBRICO CON LOGO SONY - TIPO ORIGINAL  (GARANTIA: 10 DIAS)",
+    "p1": 14500,
+    "p4": 18300,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "8605580180689",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH VINCHA PARA NIÑOS - DISEÑOS VARIOS (SIN GARANTIA)",
+    "p1": 19100,
+    "p4": 24100,
+    "stock": 46,
+    "agot": false
+  },
+  {
+    "codigo": "8741954877795",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH DEPORTIVOS CON CANCELACION DE RUIDO OWS-BY01 (GARANTIA: 5 DIAS)",
+    "p1": 12100,
+    "p4": 14700,
+    "stock": 120,
+    "agot": false
+  },
+  {
+    "codigo": "8801643759889",
+    "desc": "AURICULAR SAMSUNG BUDS ORIGINAL  (SIN GARANTIA)",
+    "p1": 9800,
+    "p4": 14900,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "8806071564872",
+    "desc": "CARGADOR 12V 2.4A V8 SAMSUNG CON CABLE + USB  (SIN GARANTIA)",
+    "p1": 2400,
+    "p4": 3000,
+    "stock": 82,
+    "agot": false
+  },
+  {
+    "codigo": "8806086511162",
+    "desc": "CARGADOR CABEZAL 15W CARGA RAPIDA PACKING SAMSUNG (SIN GARANTIA)",
+    "p1": 1500,
+    "p4": 1800,
+    "stock": 1314,
+    "agot": false
+  },
+  {
+    "codigo": "8944870153041",
+    "desc": "AURICULAR TWS BLUETHOOT C5304 ONEPLUS I7S ONE PLUS (SIN GARANTIA)",
+    "p1": 1600,
+    "p4": 2100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "8944870159982",
+    "desc": "AURICULAR BLUETHOOT ONEPLUS C5996 MICROSD BLUETHOOT FM PREMIUM (SIN GARANTIA)",
+    "p1": 1600,
+    "p4": 2100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "9311998645021",
+    "desc": "TRIPODE 20 CM PARA CELULAR UNIVERSAL FLEXIBLE (GARANTIA: CONSULTAR)",
+    "p1": 1200,
+    "p4": 1900,
+    "stock": 188,
+    "agot": false
+  },
+  {
+    "codigo": "AC2245",
+    "desc": "SOPORTE AUTO IMAN REFORZADO (SIN GARANTIA)",
+    "p1": 1000,
+    "p4": 1200,
+    "stock": 52,
+    "agot": false
+  },
+  {
+    "codigo": "AC3037",
+    "desc": "AURICULAR KARSEN MARLEY IN EAR - COLORES VARIOS (GARANTIA: 90 DIAS)",
+    "p1": 1500,
+    "p4": 1800,
+    "stock": 481,
+    "agot": false
+  },
+  {
+    "codigo": "AC3074",
+    "desc": "AURICULAR KARSEN PAUL - HQ - HIGH DEFINITION IN EAR (GARANTIA: 90 DIAS)",
+    "p1": 2100,
+    "p4": 3900,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "ADIP5S",
+    "desc": "ADAPTADOR IPHONE MICRO USB A LIGHTNING (SIN GARANTIA)",
+    "p1": 900,
+    "p4": 1400,
+    "stock": 527,
+    "agot": false
+  },
+  {
+    "codigo": "ADLIA3",
+    "desc": "ADAPTADOR LIGHTNING A 3.5 - JACK PHONE - IPHONE BLUETHOOT (GARANTIA: CONSULTAR)",
+    "p1": 700,
+    "p4": 1000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "AUBTA6S",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH A6S SIMIL XIAOMI  BT 5.2 (GARANTIA: 5 DIAS)",
+    "p1": 7200,
+    "p4": 9500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "AUBTM25",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH M25 - LOW LATENCY (SIN GARANTIA)",
+    "p1": 8900,
+    "p4": 10800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "AUBTM41",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH HI-FI M41  (SIN GARANTIA)",
+    "p1": 10900,
+    "p4": 13200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "AUCCICMMECMMORK",
+    "desc": "AURICULAR KARSEN MORRISON - HQ IN EAR (GARANTIA: 90 DIAS)",
+    "p1": 600,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "AUI13",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH I13 5.0 TWS (SIN GARANTIA)",
+    "p1": 8900,
+    "p4": 11700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "AUI13S",
+    "desc": "AURICULAR I13S 5.0 TWS BLUETHOOT   (SIN GARANTIA)",
+    "p1": 1600,
+    "p4": 2100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "AUINICMBEC29180",
+    "desc": "MANOS LIBRES BLUETHOOT SPORT ATHLETE  (GARANTIA: CONSULTAR)",
+    "p1": 500,
+    "p4": 700,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "AUM10",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH M10 + POWER BANK V5.3 (GARANTIA: 5 DIAS)",
+    "p1": 5800,
+    "p4": 7100,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "AUM90PRO",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH M90 PRO - LOW LATENCY (GARANTIA: 5 DIAS)",
+    "p1": 8200,
+    "p4": 9900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "AUPBBTHF95",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH + POWERBANK BTHF95  (SIN GARANTIA)",
+    "p1": 6100,
+    "p4": 7400,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "AUPS4FT",
+    "desc": "AURICULAR PS4 FORTNITE  (SIN GARANTIA)",
+    "p1": 1700,
+    "p4": 2500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "AUYJCA",
+    "desc": "MANOS LIBRES AURICULAR SAMSUNG YJ EN CAJA - EHS61 (SIN GARANTIA)",
+    "p1": 1700,
+    "p4": 2500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "B9DE6S",
+    "desc": "BLINDADO 9D MOTO E6I / E6S  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 158,
+    "agot": false
+  },
+  {
+    "codigo": "BL9D02",
+    "desc": "BLINDADO 9D SAMSUNG A20  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -5,
+    "agot": true
+  },
+  {
+    "codigo": "BL9D03",
+    "desc": "BLINDADO 9D SAMSUNG A20 A30 A50 M10S  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1152,
+    "agot": false
+  },
+  {
+    "codigo": "BL9D04",
+    "desc": "BLINDADO 9D SAMSUNG A50  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9D05",
+    "desc": "BLINDADO 9D SAMSUNG A70  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 16,
+    "agot": false
+  },
+  {
+    "codigo": "BL9D06",
+    "desc": "BLINDADO 9D SAMSUNG A80  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9D07",
+    "desc": "BLINDADO 9D XIAOMI NOTE 7 / REDMI 7  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9D08",
+    "desc": "BLINDADO 9D MOTO G7 / G7 PLUS  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9D09",
+    "desc": "BLINDADO 9D MOTO G7 POWER  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9D10",
+    "desc": "BLINDADO 9D MOTO G7 PLAY  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9D11",
+    "desc": "BLINDADO 9D IPHONE 7G PLUS / 8G PLUS (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "BL9D12",
+    "desc": "BLINDADO 9D IPHONE 6 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9D13PRO",
+    "desc": "BLINDADO 9D IPHONE 13 PRO (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -3,
+    "agot": true
+  },
+  {
+    "codigo": "BL9D13PROMAX",
+    "desc": "BLINDADO 9D IPHONE 13 PRO MAX / 14 PRO MAX (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -5,
+    "agot": true
+  },
+  {
+    "codigo": "BL9D14PRO",
+    "desc": "BLINDADO 9D IPHONE 14 PRO (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -15,
+    "agot": true
+  },
+  {
+    "codigo": "BL9D14PROMAX",
+    "desc": "BLINDADO 9D IPHONE 14 PRO MAX (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "BL9D9A",
+    "desc": "BLINDADO 9D XIAOMI REDMI 9A  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9D9LITE",
+    "desc": "BLINDADO 9D XIAOMI MI 9 LITE  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 41,
+    "agot": false
+  },
+  {
+    "codigo": "BL9D9S",
+    "desc": "BLINDADO 9D XIAOMI NOTE 9S  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA01",
+    "desc": "BLINDADO 9D SAMSUNG A01  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA01CORE",
+    "desc": "BLINDADO 9D SAMSUNG A01 CORE  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -5,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA02",
+    "desc": "BLINDADO 9D SAMSUNG A02 / A12  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 2164,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA02S",
+    "desc": "BLINDADO 9D SAMSUNG A02S A03S A03  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1424,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA03C",
+    "desc": "BLINDADO 9D SAMSUNG A03 CORE  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 527,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA04",
+    "desc": "BLINDADO 9D SAMSUNG A04  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1168,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA04E",
+    "desc": "BLINDADO 9D SAMSUNG A04E  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 624,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA04S",
+    "desc": "BLINDADO 9D SAMSUNG A04S  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA10",
+    "desc": "BLINDADO 9D SAMSUNG A10 / A10S  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -5,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA11",
+    "desc": "BLINDADO 9D SAMSUNG A11  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1232,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA13",
+    "desc": "BLINDADO 9D SAMSUNG A13 / M13  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 488,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA14",
+    "desc": "BLINDADO 9D SAMSUNG A14  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 534,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA20S",
+    "desc": "BLINDADO 9D SAMSUNG A20S  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA21",
+    "desc": "BLINDADO 9D SAMSUNG A21  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA21S",
+    "desc": "BLINDADO 9D SAMSUNG A21S  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 582,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA225G",
+    "desc": "BLINDADO 9D SAMSUNG A22 5G  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA23",
+    "desc": "BLINDADO 9D SAMSUNG A23  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 119,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA24",
+    "desc": "BLINDADO 9D SAMSUNG A24  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1381,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA30S",
+    "desc": "BLINDADO 9D SAMSUNG A30S  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 20,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA31",
+    "desc": "BLINDADO 9D SAMSUNG A31  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA325G",
+    "desc": "BLINDADO 9D SAMSUNG A32 5G  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 11,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA33",
+    "desc": "BLINDADO 9D SAMSUNG A33 5G M33 A32 4G  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA34",
+    "desc": "BLINDADO 9D SAMSUNG A34  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 42,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA3L",
+    "desc": "BLINDADO 9D XIAOMI MI A3 LITE  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA40",
+    "desc": "BLINDADO 9D SAMSUNG A40  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA51",
+    "desc": "BLINDADO 9D SAMSUNG A51  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA52",
+    "desc": "BLINDADO 9D SAMSUNG A52 A52S 5G  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -4,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA52S",
+    "desc": "BLINDADO 9D SAMSUNG A52S  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 4,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA53",
+    "desc": "BLINDADO 9D SAMSUNG A53 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA54",
+    "desc": "BLINDADO 9D SAMSUNG A54  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 23,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA55",
+    "desc": "BLINDADO 9D SAMSUNG A55 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1662,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA71",
+    "desc": "BLINDADO 9D SAMSUNG A71  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -15,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA72",
+    "desc": "BLINDADO 9D SAMSUNG A72  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DA73",
+    "desc": "BLINDADO 9D SAMSUNG A73  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 30,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DA750",
+    "desc": "BLINDADO 9D SAMSUNG A7 2018 A750  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 4,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DE20",
+    "desc": "BLINDADO 9D MOTO E20  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 192,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DE32",
+    "desc": "BLINDADO 9D MOTO G22 E32  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 931,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DE40",
+    "desc": "BLINDADO 9D MOTO E40 / E30  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DE5",
+    "desc": "BLINDADO 9D MOTO E5 / G6 PLAY  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DE6",
+    "desc": "BLINDADO 9D MOTO E6  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DE6PLAY",
+    "desc": "BLINDADO 9D MOTO E6 PLAY  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -35,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DE6PLUS",
+    "desc": "BLINDADO 9D MOTO E6 PLUS  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DE6PPLAY",
+    "desc": "BLINDADO 9D MOTO E6 PLAY (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 56,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DE7I",
+    "desc": "BLINDADO 9D MOTO E7 E7I POWER  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DEDGE",
+    "desc": "BLINDADO 9D MOTO EDGE  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DEDGE20L",
+    "desc": "BLINDADO 9D MOTO EDGE 20 LITE (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 4,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DEDGE20PRO",
+    "desc": "BLINDADO 9D MOTO EDGE 20 PRO  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DEDGE30",
+    "desc": "BLINDADO 9D MOTO EDGE 30  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 7,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DEDGE30P",
+    "desc": "BLINDADO 9D MOTO EDGE 30 PRO  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 16,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DG10",
+    "desc": "BLINDADO 9D MOTO G10 / G20 / G30 / E20  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DG13",
+    "desc": "BLINDADO 9D MOTO G13  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1804,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DG200",
+    "desc": "BLINDADO 9D MOTO G200  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 4,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DG23",
+    "desc": "BLINDADO 9D MOTO G23  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DG31",
+    "desc": "BLINDADO 9D MOTO G31 G41 G42 G71  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DG32",
+    "desc": "BLINDADO 9D MOTO G32  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DG50",
+    "desc": "BLINDADO 9D MOTO G50  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 15,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DG51",
+    "desc": "BLINDADO 9D MOTO G51  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DG52",
+    "desc": "BLINDADO 9D MOTO G52  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 16,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DG53",
+    "desc": "BLINDADO 9D MOTO G53  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DG60S",
+    "desc": "BLINDADO 9D MOTO G60S G60 G51 G40  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -2,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DG71",
+    "desc": "BLINDADO 9D MOTO G71  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DG72",
+    "desc": "BLINDADO 9D MOTO G72  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 67,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DG8",
+    "desc": "BLINDADO 9D MOTO G8  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 11,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DG8PLAY",
+    "desc": "BLINDADO 9D MOTO G8 PLAY  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DG8PLUS",
+    "desc": "BLINDADO 9D MOTO G8 PLUS  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 10,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DG9PLAY",
+    "desc": "BLINDADO 9D MOTO G9 PLAY / E7 PLUS  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DG9PLUS",
+    "desc": "BLINDADO 9D MOTO G9 PLUS  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 22,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DG9PO",
+    "desc": "BLINDADO 9D MOTO G9 POWER  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 20,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DIP12",
+    "desc": "BLINDADO 9D IPHONE 12 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 116,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DIP13",
+    "desc": "BLINDADO 9D IPHONE 13 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 21,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DIP14",
+    "desc": "BLINDADO 9D IPHONE 14 / 14 PRO (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DIP14PLUS",
+    "desc": "BLINDADO 9D IPHONE 14 PLUS (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 700,
+    "stock": 52,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DIP15",
+    "desc": "BLINDADO 9D IPHONE 15 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 692,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DIP16",
+    "desc": "BLINDADO 9D IPHONE 16 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 765,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DIP16P",
+    "desc": "BLINDADO 9D IPHONE 16 PRO (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 867,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DIP16PM",
+    "desc": "BLINDADO 9D IPHONE 16 PRO MAX (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 178,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DIP6P",
+    "desc": "BLINDADO 9D IPHONE 6 PLUS (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 20,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DIPH8",
+    "desc": "BLINDADO 9D IPHONE 7G / 8G (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 399,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DJ2PRIME",
+    "desc": "BLINDADO 9D SAMSUNGSUNG J2 PRIME (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DJ4",
+    "desc": "BLINDADO 9D SAMSUNG J4  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DJ4P",
+    "desc": "BLINDADO 9D SAMSUNG J4 PLUS  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1141,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DJ5P",
+    "desc": "BLINDADO 9D SAMSUNG J5 PRIME  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DJ710",
+    "desc": "BLINDADO 9D SAMSUNG J7 2016  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DJ7P",
+    "desc": "BLINDADO 9D SAMSUNG J7 PRIME  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DK22",
+    "desc": "BLINDADO 9D LG K22 K22 PLUS (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DK40S",
+    "desc": "BLINDADO 9D LG K40S (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DK50S",
+    "desc": "BLINDADO 9D LG K50S (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DM33",
+    "desc": "BLINDADO 9D SAMSUNG M33  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DM53",
+    "desc": "BLINDADO 9D SAMSUNG M53  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 13,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DM8L",
+    "desc": "BLINDADO 9D XIAOMI MI 8 LITE  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DMI11LITE",
+    "desc": "BLINDADO 9D XIAOMI MI 11 LITE  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DMI9",
+    "desc": "BLINDADO 9D XIAOMI MI 9  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DMI9SE",
+    "desc": "BLINDADO 9D XIAOMI MI 9 SE  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 21,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DMI9T",
+    "desc": "BLINDADO 9D XIAOMI MI 9T  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 33,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DMOE13",
+    "desc": "BLINDADO 9D MOTO E13 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1343,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DMOE14",
+    "desc": "BLINDADO 9D MOTO E14 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1053,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DMOE22",
+    "desc": "BLINDADO 9D MOTO E22  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DMOG04",
+    "desc": "BLINDADO 9D MOTO G04 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 2384,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DMOG04S",
+    "desc": "BLINDADO 9D MOTO G04S (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 2001,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DMOG24",
+    "desc": "BLINDADO 9D MOTO G24 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 4538,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DMOG24PW",
+    "desc": "BLINDADO 9D MOTO G24 POWER (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 4873,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DMOG54",
+    "desc": "BLINDADO 9D MOTO G54 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 2311,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DMOG82",
+    "desc": "BLINDADO 9D MOTO G52 G82 G71S  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DMOG84",
+    "desc": "BLINDADO 9D MOTO G84 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 2331,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DMON",
+    "desc": "BLINDADO 9D MOTO ONE  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DN7",
+    "desc": "BLINDADO 9D XIAOMI NOTE 7 / NOTE 7 PRO  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DN8",
+    "desc": "BLINDADO 9D XIAOMI NOTE 8  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DN8P",
+    "desc": "BLINDADO 9D XIAOMI NOTE 8 PRO  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DN8T",
+    "desc": "BLINDADO 9D XIAOMI NOTE 8T  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 25,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DN9",
+    "desc": "BLINDADO 9D XIAOMI NOTE 9  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DN9P",
+    "desc": "BLINDADO 9D XIAOMI NOTE 9 PRO  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DONEA",
+    "desc": "BLINDADO 9D MOTO ONE ACTION  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 12,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DONEH",
+    "desc": "BLINDADO 9D MOTO ONE HYPER  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 13,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DONEM",
+    "desc": "BLINDADO 9D MOTO ONE MACRO  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DONEV",
+    "desc": "BLINDADO 9D MOTO ONE VISION  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DONEZ",
+    "desc": "BLINDADO 9D MOTO ONE ZOOM  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DRE10",
+    "desc": "BLINDADO 9D XIAOMI REDMI 10  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -8,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DS10",
+    "desc": "BLINDADO 9D SAMSUNG S10 CURVO  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 29,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DS10P",
+    "desc": "BLINDADO 9D SAMSUNG S10 PLUS CURVO  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 15,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DS20FE",
+    "desc": "BLINDADO 9D SAMSUNG S20 FE / A31 / A51  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DS21FE",
+    "desc": "BLINDADO 9D SAMSUNG S21 FE  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DS22",
+    "desc": "BLINDADO 9D SAMSUNG S22  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 91,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DS22PLUS",
+    "desc": "BLINDADO 9D SAMSUNG S22 PLUS  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 112,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DSA05",
+    "desc": "BLINDADO 9D SAMSUNG A05 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 16,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DSA06",
+    "desc": "BLINDADO 9D SAMSUNG A06 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 12,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DSA15",
+    "desc": "BLINDADO 9D SAMSUNG A15 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": -5,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DSA16",
+    "desc": "BLINDADO 9D SAMSUNG A16 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DSA25",
+    "desc": "BLINDADO 9D SAMSUNG A25 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 277,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DSA32",
+    "desc": "BLINDADO 9D SAMSUNG A32 4G (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 767,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DSA35",
+    "desc": "BLINDADO 9D SAMSUNG A35 (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1670,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DSAA50S",
+    "desc": "BLINDADO 9D SAMSUNG A50S  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 19,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DXR",
+    "desc": "BLINDADO 9D IPHONE 11 / XR (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BL9DXR11",
+    "desc": "BLINDADO 9D XIAOMI REDMI 12  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DXRN11",
+    "desc": "BLINDADO 9D XIAOMI REDMI NOTE 11 4G  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DXRN12",
+    "desc": "BLINDADO 9D XIAOMI REDMI NOTE 12  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 20,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DXS",
+    "desc": "BLINDADO 9D IPHONE XS 5.8 / IPHONE X / IPHONE 11 PRO (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 256,
+    "agot": false
+  },
+  {
+    "codigo": "BL9DXSMAX",
+    "desc": "BLINDADO 9D IPHONE XS MAX 6.5 / IPHONE 11 PRO MAX (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLALC3",
+    "desc": "BLINDADO ALC C3  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLALC5",
+    "desc": "BLINDADO ALC C5 OT5036 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLALC7",
+    "desc": "BLINDADO ALC C7 OT7040 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLALC9",
+    "desc": "BLINDADO ALC C9  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 18,
+    "agot": false
+  },
+  {
+    "codigo": "BLALOT4009",
+    "desc": "BLINDADO ALC OT4009 PIXI 3 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLALOT5017",
+    "desc": "BLINDADO ALC OT5017 PIXI 3 4.5 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 31,
+    "agot": false
+  },
+  {
+    "codigo": "BLALOT6012",
+    "desc": "BLINDADO ALC OT6012 IDOL MINI - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLALOT6016",
+    "desc": "BLINDADO ALC OT6016 IDOL 2 MINI - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 42,
+    "agot": false
+  },
+  {
+    "codigo": "BLALOT6030",
+    "desc": "BLINDADO ALC OT6030 IDOL - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 27,
+    "agot": false
+  },
+  {
+    "codigo": "BLALOT6039",
+    "desc": "BLINDADO ALC OT6039 IDOL 3 4.7 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLALOT6045",
+    "desc": "BLINDADO ALC OT6045 IDOL 3 5.5 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 35,
+    "agot": false
+  },
+  {
+    "codigo": "BLALPIXI",
+    "desc": "BLINDADO ALC PIXI 4 5 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 28,
+    "agot": false
+  },
+  {
+    "codigo": "BLALPOP",
+    "desc": "BLINDADO ALC POP 2 OT5042 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 20,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAIP11",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 11 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLCAIP11PM",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 11 PRO MAX (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLCAIP11PRO",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 11 PRO (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAIP12",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 12 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLCAIP12PM",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 12 PRO MAX (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAIP12PRO",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 12 PRO (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAIP13",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 13 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLCAIP13PM",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 13 PRO MAX (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAIP13PRO",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 13 PRO (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLCAIP14",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 14 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAIP14PL",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 14 PLUS (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 7,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAIP14PM",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 14 PRO MAX (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAIP14PRO",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 14 PRO (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAIP7",
+    "desc": "BLINDADO CAMARA TRASERA IPHONE 7 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 38,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOE13",
+    "desc": "BLINDADO CAMARA TRASERA MOTO E13 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 29,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOE22",
+    "desc": "BLINDADO CAMARA TRASERA MOTO E22 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 44,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOE32",
+    "desc": "BLINDADO CAMARA TRASERA MOTO E32 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 38,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOE40",
+    "desc": "BLINDADO CAMARA TRASERA MOTO E40 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 36,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOE7",
+    "desc": "BLINDADO CAMARA TRASERA MOTO E7 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOED30",
+    "desc": "BLINDADO CAMARA TRASERA MOTO EDGE 30 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 50,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOED30U",
+    "desc": "BLINDADO CAMARA TRASERA MOTO EDGE 30 ULTRA (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 53,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOG100",
+    "desc": "BLINDADO CAMARA TRASERA MOTO G100 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 39,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOG20",
+    "desc": "BLINDADO CAMARA TRASERA MOTO G20 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 35,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOG200",
+    "desc": "BLINDADO CAMARA TRASERA MOTO G200 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 55,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOG22",
+    "desc": "BLINDADO CAMARA TRASERA MOTO G22 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 33,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOG30",
+    "desc": "BLINDADO CAMARA TRASERA MOTO G30 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 36,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOG32",
+    "desc": "BLINDADO CAMARA TRASERA MOTO G32 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 50,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOG42",
+    "desc": "BLINDADO CAMARA TRASERA MOTO G42 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 50,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOG51",
+    "desc": "BLINDADO CAMARA TRASERA MOTO G51 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 54,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOG52",
+    "desc": "BLINDADO CAMARA TRASERA MOTO G52 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 54,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOG60",
+    "desc": "BLINDADO CAMARA TRASERA MOTO G60 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 38,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOG72",
+    "desc": "BLINDADO CAMARA TRASERA MOTO G72 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 37,
+    "agot": false
+  },
+  {
+    "codigo": "BLCAMOG82",
+    "desc": "BLINDADO CAMARA TRASERA MOTO G82 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 55,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA02",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A02 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 38,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA03",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A03 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 34,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA03CO",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A03 CORE (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 35,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA04",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A04 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 41,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA10S",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A10S (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 56,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA12",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A12 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 25,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA20",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A20 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 39,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA20S",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A20S (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 40,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA30",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A30 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 57,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA30S",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A30S  (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 54,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA32",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A32 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 34,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA50",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A50  (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 52,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA51",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A51 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 37,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA52",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A52 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 33,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA70",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A70 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 55,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAA71",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A71 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 40,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAMA02S",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A02S (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 37,
+    "agot": false
+  },
+  {
+    "codigo": "BLCASAMA10",
+    "desc": "BLINDADO CAMARA TRASERA SAMSUNG A10 (SIN GARANTIA)",
+    "p1": 1900,
+    "p4": 2300,
+    "stock": 24,
+    "agot": false
+  },
+  {
+    "codigo": "BLE6PLAY",
+    "desc": "BLINDADO MOTO E6 PLAY  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 27,
+    "agot": false
+  },
+  {
+    "codigo": "BLE6PLUS",
+    "desc": "BLINDADO MOTO E6 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 94,
+    "agot": false
+  },
+  {
+    "codigo": "BLG6PLAY",
+    "desc": "BLINDADO MOTO G6 PLAY  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLG8",
+    "desc": "BLINDADO MOTO G8  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 238,
+    "agot": false
+  },
+  {
+    "codigo": "BLG8PLAY",
+    "desc": "BLINDADO MOTO G8 PLAY / ONE MACRO  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 201,
+    "agot": false
+  },
+  {
+    "codigo": "BLG8PLUS",
+    "desc": "BLINDADO MOTO G8 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 189,
+    "agot": false
+  },
+  {
+    "codigo": "BLG8POWER",
+    "desc": "BLINDADO MOTO G8 POWER  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 265,
+    "agot": false
+  },
+  {
+    "codigo": "BLG8POWERL",
+    "desc": "BLINDADO MOTO G8 POWER LITE / G9 POWER LITE  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "BLIP11",
+    "desc": "BLINDADO IPHONE 11 / 6.1\"  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLIP12PRO",
+    "desc": "BLINDADO IPHONE 12 / 12 PRO  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 13,
+    "agot": false
+  },
+  {
+    "codigo": "BLIP12PROMAX",
+    "desc": "BLINDADO IPHONE 12 PRO MAX  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 46,
+    "agot": false
+  },
+  {
+    "codigo": "BLIP4",
+    "desc": "BLINDADO IPHONE 4  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLIP5",
+    "desc": "BLINDADO IPHONE 5  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 44,
+    "agot": false
+  },
+  {
+    "codigo": "BLIP6",
+    "desc": "BLINDADO IPHONE 6  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 76,
+    "agot": false
+  },
+  {
+    "codigo": "BLIP6PLUS",
+    "desc": "BLINDADO IPHONE 6 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "BLIP7",
+    "desc": "BLINDADO IPHONE 7 / IPHONE 8  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 113,
+    "agot": false
+  },
+  {
+    "codigo": "BLIP7PLUS",
+    "desc": "BLINDADO IPHONE 7 PLUS / IPHONE 8 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 104,
+    "agot": false
+  },
+  {
+    "codigo": "BLIP8",
+    "desc": "BLINDADO IPHONE 8 ()",
+    "p1": 70,
+    "p4": 150,
+    "stock": -28,
+    "agot": true
+  },
+  {
+    "codigo": "BLIP8PLUS",
+    "desc": "BLINDADO IPHONE 8PLUS ()",
+    "p1": 70,
+    "p4": 150,
+    "stock": -2,
+    "agot": true
+  },
+  {
+    "codigo": "BLIPX",
+    "desc": "BLINDADO IPHONE X / XS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 11,
+    "agot": false
+  },
+  {
+    "codigo": "BLK11P",
+    "desc": "BLINDADO LG K11 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 137,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGBELLO",
+    "desc": "BLINDADO LG BELLO  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 58,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGF60",
+    "desc": "BLINDADO LG F60  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGFINO",
+    "desc": "BLINDADO LG FINO D295  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 68,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGG2",
+    "desc": "BLINDADO LG G2  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 17,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGG2M",
+    "desc": "BLINDADO LG G2 MINI  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGG3",
+    "desc": "BLINDADO LG G3  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGG3B",
+    "desc": "BLINDADO LG G3 BEAT  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGG3ST",
+    "desc": "BLINDADO LG G3 STYLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 17,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGG4",
+    "desc": "BLINDADO LG G4  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 30,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGG5",
+    "desc": "BLINDADO LG G5  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 29,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGG6",
+    "desc": "BLINDADO LG G6  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 10,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGGPRO",
+    "desc": "BLINDADO LG GPRO LITE DUAL  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGGPROL",
+    "desc": "BLINDADO LG GPRO LITE  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGK10",
+    "desc": "BLINDADO LG K10  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 7,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGK1017",
+    "desc": "BLINDADO LG K10 2017  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGK11",
+    "desc": "BLINDADO LG K11  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGK22",
+    "desc": "BLINDADO LG K22 / K22 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 11,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGK22P",
+    "desc": "BLINDADO 9D LG K22 PLUS (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGK3",
+    "desc": "BLINDADO LG K3  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 34,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGK4",
+    "desc": "BLINDADO LG K4  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGK417",
+    "desc": "BLINDADO LG K4 2017  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGK5",
+    "desc": "BLINDADO LG K5  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 20,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGK7",
+    "desc": "BLINDADO LG K7  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 124,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGK8",
+    "desc": "BLINDADO LG K8  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGK817",
+    "desc": "BLINDADO LG K8 2017  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -5,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGK9",
+    "desc": "BLINDADO LG K9  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 31,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGKITE",
+    "desc": "BLINDADO LG KITE / JOY KITE / JOY - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGL80",
+    "desc": "BLINDADO LG L80 L80 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 16,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGL90",
+    "desc": "BLINDADO LG L90 L90 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 13,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGLEON",
+    "desc": "BLINDADO LG LEON LEON - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGNEXUS4",
+    "desc": "BLINDADO LG NEXUS 4  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGNEXUS5",
+    "desc": "BLINDADO LG NEXUS 5  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGP715",
+    "desc": "BLINDADO LG P715 L7 II - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGPRIME",
+    "desc": "BLINDADO LG PRIME - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGQ6",
+    "desc": "BLINDADO LG Q6  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGSPIRIT",
+    "desc": "BLINDADO LG SPIRIT SPIRIT - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGST3",
+    "desc": "BLINDADO LG STYLUS 3  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 70,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGXCAM",
+    "desc": "BLINDADO LG X CAM  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 53,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGXPOWER",
+    "desc": "BLINDADO LG X POWER  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLLGXSCREEN",
+    "desc": "BLINDADO LG X SCREEN  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 60,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGXSTYLE",
+    "desc": "BLINDADO LG X STYLE  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 23,
+    "agot": false
+  },
+  {
+    "codigo": "BLLGZERO",
+    "desc": "BLINDADO LG ZERO  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 31,
+    "agot": false
+  },
+  {
+    "codigo": "BLMI8LITE",
+    "desc": "BLINDADO XIAOMI MI 8 LITE  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 166,
+    "agot": false
+  },
+  {
+    "codigo": "BLMIA1",
+    "desc": "BLINDADO XIAOMI MI A1  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 92,
+    "agot": false
+  },
+  {
+    "codigo": "BLMIA2",
+    "desc": "BLINDADO XIAOMI MI A2  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 72,
+    "agot": false
+  },
+  {
+    "codigo": "BLMIA2LITE",
+    "desc": "BLINDADO XIAOMI MI A2 LITE  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 86,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOC",
+    "desc": "BLINDADO MOTO C / MOTO C PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 98,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOCP",
+    "desc": "BLINDADO MOTO C PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 26,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOE",
+    "desc": "BLINDADO MOTO E  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLMOE13",
+    "desc": "BLINDADO MOTO E13  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -27,
+    "agot": true
+  },
+  {
+    "codigo": "BLMOE2",
+    "desc": "BLINDADO MOTO E2  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLMOE20",
+    "desc": "BLINDADO MOTO E20  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOE3",
+    "desc": "BLINDADO MOTO E3  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 46,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOE4",
+    "desc": "BLINDADO MOTO E4  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 62,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOE4P",
+    "desc": "BLINDADO MOTO E4 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 37,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOE5",
+    "desc": "BLINDADO MOTO E5 / G6 PLAY  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -4,
+    "agot": true
+  },
+  {
+    "codigo": "BLMOE5PLAY",
+    "desc": "BLINDADO MOTO E5 PLAY E5 PLAY GO - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 17,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOE5PLUS",
+    "desc": "BLINDADO MOTO E5 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 879,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOE7IP",
+    "desc": "BLINDADO MOTO E7 E7I POWER  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 86,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOE7PLUS",
+    "desc": "BLINDADO MOTO E7 PLUS / G9 PLAY  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 216,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG",
+    "desc": "BLINDADO MOTO G  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 371,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG10",
+    "desc": "BLINDADO MOTO G10 / G20 / G30  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG100",
+    "desc": "BLINDADO MOTO G100  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 45,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG2",
+    "desc": "BLINDADO MOTO G2  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLMOG22",
+    "desc": "BLINDADO MOTO G22 E32 - MINIMO 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 26,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG23",
+    "desc": "BLINDADO MOTO G23 G13 - MINIMO 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 30,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG3",
+    "desc": "BLINDADO MOTO G3  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 52,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG4",
+    "desc": "BLINDADO MOTO G4  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 152,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG4PLAY",
+    "desc": "BLINDADO MOTO G4 PLAY  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 238,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG4PLUS",
+    "desc": "BLINDADO MOTO G4 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 126,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG5",
+    "desc": "BLINDADO MOTO G5  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLMOG52",
+    "desc": "BLINDADO MOTO G52 G82 G71S - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 53,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG53",
+    "desc": "BLINDADO MOTO G53 G73 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 136,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG5PLUS",
+    "desc": "BLINDADO MOTO G5 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 131,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG5S",
+    "desc": "BLINDADO MOTO G5S  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 212,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG5SP",
+    "desc": "BLINDADO MOTO G5S PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 253,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG6",
+    "desc": "BLINDADO MOTO G6  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG60",
+    "desc": "BLINDADO MOTO G60 G60S G51 G40 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG6PLUS",
+    "desc": "BLINDADO MOTO G6 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -5,
+    "agot": true
+  },
+  {
+    "codigo": "BLMOG72",
+    "desc": "BLINDADO MOTO G72 G62 G82  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 33,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG7P",
+    "desc": "BLINDADO MOTO G7 / G7 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 92,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG7PLAY",
+    "desc": "BLINDADO MOTO G7 PLAY / SAMSUNG A01  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 412,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG7PO",
+    "desc": "BLINDADO MOTO G7 POWER  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 645,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG9PLUS",
+    "desc": "BLINDADO MOTO G9 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 17,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOG9POWER",
+    "desc": "BLINDADO MOTO G9 POWER  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 38,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOM",
+    "desc": "BLINDADO MOTO M  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 111,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOX",
+    "desc": "BLINDADO MOTO X  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 13,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOX2",
+    "desc": "BLINDADO MOTO X2  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLMOX3",
+    "desc": "BLINDADO MOTO X3  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLMOXPLAY",
+    "desc": "BLINDADO MOTO X PLAY  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 17,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOXSTYLE",
+    "desc": "BLINDADO MOTO X STYLE  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLMOZ2P",
+    "desc": "BLINDADO MOTO Z2 PLAY  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 55,
+    "agot": false
+  },
+  {
+    "codigo": "BLMOZPLAY",
+    "desc": "BLINDADO MOTO Z PLAY  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 40,
+    "agot": false
+  },
+  {
+    "codigo": "BLNK1520",
+    "desc": "BLINDADO NK 1520 LUMIA - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLNK3-1",
+    "desc": "BLINDADO NOKIA 3.1  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 84,
+    "agot": false
+  },
+  {
+    "codigo": "BLNK435",
+    "desc": "BLINDADO NK 435 MICROSOFT - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 15,
+    "agot": false
+  },
+  {
+    "codigo": "BLNK530",
+    "desc": "BLINDADO NK 530 LUMIA - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 11,
+    "agot": false
+  },
+  {
+    "codigo": "BLNK535",
+    "desc": "BLINDADO NK 535 MICROSOFT - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLNK620",
+    "desc": "BLINDADO NK 620  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 22,
+    "agot": false
+  },
+  {
+    "codigo": "BLNK630",
+    "desc": "BLINDADO NK 630 LUMIA 630/635 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 47,
+    "agot": false
+  },
+  {
+    "codigo": "BLNK640",
+    "desc": "BLINDADO NK 640 MICROSOFT - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 135,
+    "agot": false
+  },
+  {
+    "codigo": "BLNK640XL",
+    "desc": "BLINDADO NK 640 XL 640 XL - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLNK730",
+    "desc": "BLINDADO NK 730 LUMIA - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLNK925",
+    "desc": "BLINDADO NK 925 LUMIA - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLONEFUSION",
+    "desc": "BLINDADO MOTO ONE FUSION  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 4,
+    "agot": false
+  },
+  {
+    "codigo": "BLSA850",
+    "desc": "BLINDADO SAM 850 ALPHA - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAA01",
+    "desc": "BLINDADO SAM A01  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 18,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA01CORE",
+    "desc": "BLINDADO SAM A01 CORE  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA02S",
+    "desc": "BLINDADO SAM A02S A03 A03S  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -11,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAA03CO",
+    "desc": "BLINDADO SAM A03 CORE  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA04",
+    "desc": "BLINDADO SAM A04  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 48,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA04E",
+    "desc": "BLINDADO SAM A04E  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 28,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA10",
+    "desc": "BLINDADO SAM A10 / A10S / M10  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 119,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA11",
+    "desc": "BLINDADO SAM A11  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 45,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA12",
+    "desc": "BLINDADO SAM A12 A02 M12 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 41,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA13",
+    "desc": "BLINDADO SAM A13 4G A23 M13 M33 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 28,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA14",
+    "desc": "BLINDADO SAM A14 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -25,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAA20",
+    "desc": "BLINDADO SAM A20 A30 A30S A50S A50 M10S  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 80,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA20S",
+    "desc": "BLINDADO SAM A20S  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 44,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA21S",
+    "desc": "BLINDADO SAM A21S  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 32,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA22",
+    "desc": "BLINDADO SAM A22  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 45,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA24",
+    "desc": "BLINDADO SAM A24  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 178,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA3",
+    "desc": "BLINDADO SAM A3  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAA30",
+    "desc": "BLINDADO SAM A30 / A50 (ONE VISION)",
+    "p1": 70,
+    "p4": 150,
+    "stock": -3,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAA31",
+    "desc": "BLINDADO SAM A31  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 180,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA310",
+    "desc": "BLINDADO SAM A3 2016 A310 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -2,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAA32",
+    "desc": "BLINDADO SAM A32  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 93,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA32017",
+    "desc": "BLINDADO SAM A3 2017  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 149,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA34",
+    "desc": "BLINDADO SAM A34  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 94,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA40",
+    "desc": "BLINDADO SAM A40  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 20,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA5",
+    "desc": "BLINDADO SAM A5  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAA50",
+    "desc": "BLINDADO SAM A50  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 4,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA51",
+    "desc": "BLINDADO SAM A51  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 72,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA510",
+    "desc": "BLINDADO SAM A5 2016 A510 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAA51S",
+    "desc": "BLINDADO SAM A51S  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 26,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA52",
+    "desc": "BLINDADO SAM A52 A52S - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 187,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA520",
+    "desc": "BLINDADO SAM A5 2017 A520 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -2,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAA54",
+    "desc": "BLINDADO SAM A52 A54 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 20,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA6",
+    "desc": "BLINDADO SAM A6  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 60,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA6PLUS",
+    "desc": "BLINDADO SAM A6PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 18,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA7",
+    "desc": "BLINDADO SAM A7  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 96,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA70",
+    "desc": "BLINDADO SAM A70  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA710",
+    "desc": "BLINDADO SAM A7 2016 A710 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 153,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA72",
+    "desc": "BLINDADO SAM A72  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 24,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA720",
+    "desc": "BLINDADO SAM A7 2017 A720 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 11,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA8",
+    "desc": "BLINDADO SAM A8  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 15,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA80",
+    "desc": "BLINDADO SAM A80 / A90  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -2,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAA818",
+    "desc": "BLINDADO SAM A8 2018 / J6 J6 / A8 2018 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 33,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA9",
+    "desc": "BLINDADO SAM A9  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAA90",
+    "desc": "BLINDADO SAM A90 (ONE VISION)",
+    "p1": 70,
+    "p4": 150,
+    "stock": 6,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA910",
+    "desc": "BLINDADO SAM A9 2016 A910 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 40,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAA917",
+    "desc": "BLINDADO SAM A9 2017  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 38,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAE5",
+    "desc": "BLINDADO SAM E5  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAG110",
+    "desc": "BLINDADO SAM G110 POCKET 2 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 400,
+    "p4": 800,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAG130",
+    "desc": "BLINDADO SAM G130 YOUNG 2 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 400,
+    "p4": 800,
+    "stock": 46,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAG350",
+    "desc": "BLINDADO SAM G350 CORE PLUS - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 400,
+    "p4": 800,
+    "stock": 347,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAG360",
+    "desc": "BLINDADO SAM G360 CORE PRIME - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 400,
+    "p4": 800,
+    "stock": 117,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAG3812",
+    "desc": "BLINDADO SAM G3812 WIN PRO - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 400,
+    "p4": 800,
+    "stock": 58,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAG710",
+    "desc": "BLINDADO SAM G710 GRAND 2 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 400,
+    "p4": 800,
+    "stock": 432,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAG800",
+    "desc": "BLINDADO SAM G800 S5 MINI - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 400,
+    "p4": 800,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAG925",
+    "desc": "BLINDADO SAM G925 S6 EDGE SIN BORDES - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 400,
+    "p4": 800,
+    "stock": 147,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAG925C",
+    "desc": "BLINDADO SAM G925 CURVO S6 EDGE CURVO - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 600,
+    "p4": 1100,
+    "stock": 49,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAG928",
+    "desc": "BLINDADO SAM G928 S6 EDGE PLUS SIN BORDES - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 400,
+    "p4": 800,
+    "stock": 44,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAG928C",
+    "desc": "BLINDADO SAM G928 CURVO S6 EDGE PLUS CURVO - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 600,
+    "p4": 1100,
+    "stock": 47,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAG930",
+    "desc": "BLINDADO SAM G930 S7 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 400,
+    "p4": 800,
+    "stock": 37,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAG935C",
+    "desc": "BLINDADO SAM G935 CURVO S7 EDGE CURVO - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 600,
+    "p4": 1100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAI8190",
+    "desc": "BLINDADO SAM I8190 S3 MINI - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAI8260",
+    "desc": "BLINDADO SAM I8260 CORE - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAI8550",
+    "desc": "BLINDADO SAM I8550 WIN - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 67,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAI9003",
+    "desc": "BLINDADO SAM I9003 S1 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAI9080",
+    "desc": "BLINDADO SAM I9080 GRAND / GRAND NEO - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAI9220",
+    "desc": "BLINDADO SAM I9220 NOTE 1 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAI9300",
+    "desc": "BLINDADO SAM I9300 S3 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 27,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAI9500",
+    "desc": "BLINDADO SAM I9500 S4 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAJ1",
+    "desc": "BLINDADO SAM J1  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -2,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAJ110",
+    "desc": "BLINDADO SAM J1 ACE J110 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 1137,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ120",
+    "desc": "BLINDADO SAM J1 2016 J120 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAJ2",
+    "desc": "BLINDADO SAM J2 2015 J2 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 390,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ216",
+    "desc": "BLINDADO SAM J2 2016 J210 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAJ2C",
+    "desc": "BLINDADO SAM J2 CORE  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 88,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ2PRIME",
+    "desc": "BLINDADO SAM J2 PRIME / GRAND PRIME  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -3,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAJ2PRO",
+    "desc": "BLINDADO SAM J2 PRO  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ3",
+    "desc": "BLINDADO SAM J3 2016 J3 2015 / 2016 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 25,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ317",
+    "desc": "BLINDADO SAM J3 2017  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -5,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAJ4",
+    "desc": "BLINDADO SAM J4 / J7 2015  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ4PLUS",
+    "desc": "BLINDADO SAM J4 PLUS / J6 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 101,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ5",
+    "desc": "BLINDADO SAM J5  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAJ510",
+    "desc": "BLINDADO SAM J5 2016 J510 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 25,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ5PRIME",
+    "desc": "BLINDADO SAM J5 PRIME  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 1107,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ5PRO",
+    "desc": "BLINDADO SAM J5 PRO  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 65,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ6",
+    "desc": "BLINDADO SAM J6  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ6PLUS",
+    "desc": "BLINDADO SAM J6 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": -95,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAJ7",
+    "desc": "BLINDADO SAM J7 2015 / J7 NEO J701 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 167,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ710",
+    "desc": "BLINDADO SAM J7 2016 J710 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 53,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ7PRIME",
+    "desc": "BLINDADO SAM J7 PRIME  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 471,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ7PRO",
+    "desc": "BLINDADO SAM J7 PRO  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ8",
+    "desc": "BLINDADO SAM J8  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 65,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAJ817",
+    "desc": "BLINDADO SAM J5 2017  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 19,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAN7100",
+    "desc": "BLINDADO SAM N7100 NOTE 2 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 16,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAN900",
+    "desc": "BLINDADO SAM N900 NOTE 3 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 19,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAN910",
+    "desc": "BLINDADO SAM N910 NOTE 4 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 15,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAN920",
+    "desc": "BLINDADO SAM N920 NOTE 5 - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 43,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAS10",
+    "desc": "BLINDADO SAM S10 CURVO - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 800,
+    "p4": 1400,
+    "stock": 16,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAS10P",
+    "desc": "BLINDADO SAM S10 PLUS CURVO - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 800,
+    "p4": 1400,
+    "stock": 13,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAS6",
+    "desc": "BLINDADO SAM S6 EDGE PLUS AAA (ROYALCELL / 3D CURVO)",
+    "p1": 230,
+    "p4": 400,
+    "stock": 14,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAS6EDGEAAA",
+    "desc": "BLINDADO SAM S6 EDGE AAA (ROYALCELL / 3D CURVO)",
+    "p1": 230,
+    "p4": 400,
+    "stock": 9,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAS6EPLUS",
+    "desc": "BLINDADO SAM S6 EDGE PLUS ()",
+    "p1": 70,
+    "p4": 150,
+    "stock": 8,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAS8",
+    "desc": "BLINDADO SAM S8 CURVO - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 800,
+    "p4": 1400,
+    "stock": -3,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAS8AAA",
+    "desc": "BLINDADO SAM S8 AAA (ROYALCELL / 3D CURVO)",
+    "p1": 180,
+    "p4": 450,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAS8PLUS",
+    "desc": "BLINDADO SAM S8 PLUS CURVO - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 800,
+    "p4": 1400,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAS8PLUSAAA",
+    "desc": "BLINDADO SAM S8 PLUS AAA (ROYALCELL / 3D CURVO)",
+    "p1": 200,
+    "p4": 500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAS8PS",
+    "desc": "BLINDADO SAM S8  PLUS SIN CURVA  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "BLSAS9",
+    "desc": "BLINDADO 9D SAMSUNG S9 S8 CURVO  (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 28,
+    "agot": false
+  },
+  {
+    "codigo": "BLSAS9P",
+    "desc": "BLINDADO SAM S8 PLUS S9 PLUS  CURVO - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 600,
+    "p4": 1100,
+    "stock": 23,
+    "agot": false
+  },
+  {
+    "codigo": "BLXIN5PLUS",
+    "desc": "BLINDADO XIAOMI NOTE 5 / NOTE 5 PLUS  - MIN. 5 UNIDADES (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 900,
+    "stock": 69,
+    "agot": false
+  },
+  {
+    "codigo": "BPMSAPPLE",
+    "desc": "CARGADOR PORTATIL APPLE BATTERY PACK MAGSAFE 10000 MAH - CALIDAD ORIGINAL - POWERBANK (GARANTIA: 5 DIAS)",
+    "p1": 15700,
+    "p4": 20900,
+    "stock": 52,
+    "agot": false
+  },
+  {
+    "codigo": "CABLEV8BOLSA",
+    "desc": "CABLE USB V8 MICRO USB TURBO CARGA RAPIDA 25W EN BOLSA - MARCAS VARIAS (SIN GARANTIA)",
+    "p1": 1000,
+    "p4": 1300,
+    "stock": 23,
+    "agot": false
+  },
+  {
+    "codigo": "CAIP15C35W",
+    "desc": "CARGADOR CABEZAL IPHONE TIPO C 35W - CALIDAD ORIGINAL (GARANTIA: 5 DIAS)",
+    "p1": 5400,
+    "p4": 9000,
+    "stock": 351,
+    "agot": false
+  },
+  {
+    "codigo": "CAMO125WOR",
+    "desc": "CARGADOR 125W TURBO ULTRA RAPIDO MOTOROLA TIPO C 100% ORIGINAL (GARANTIA: 30 DIAS)",
+    "p1": 37300,
+    "p4": 46300,
+    "stock": 21,
+    "agot": false
+  },
+  {
+    "codigo": "CAMORIG",
+    "desc": "CARGADOR 30W TURBO ULTRA RAPIDO MOTOROLA TIPO C 100% ORIGINAL (GARANTIA: 30 DIAS)",
+    "p1": 19400,
+    "p4": 24100,
+    "stock": 56,
+    "agot": false
+  },
+  {
+    "codigo": "CASAQC30",
+    "desc": "CARGADOR ADAPTADOR USB 220V SAMSUNG TURBO POWER QC 3.0 SUELTO (SIN GARANTIA)",
+    "p1": 4800,
+    "p4": 7100,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "CAUSV31M",
+    "desc": "CABLE MINI USB V3 1M DINAX (SIN GARANTIA)",
+    "p1": 700,
+    "p4": 900,
+    "stock": 175,
+    "agot": false
+  },
+  {
+    "codigo": "CCTC45W",
+    "desc": "CARGADOR CABEZAL TIPO C 45W REALES ULTRA RAPIDO - IND. ARGENTINA (GARANTIA: 90 DIAS)",
+    "p1": 16200,
+    "p4": 19200,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "FHYDROC",
+    "desc": "FILM HIDROGEL HD GRIFFIN CON CORTE   (SIN GARANTIA)",
+    "p1": 3500,
+    "p4": 5000,
+    "stock": -92,
+    "agot": true
+  },
+  {
+    "codigo": "FUAC65",
+    "desc": "FUNDA UNIVERSAL ACUATICA SUMERGIBLE PARA CELULAR DINAX DX-CELFUN (SIN GARANTIA)",
+    "p1": 900,
+    "p4": 1200,
+    "stock": 426,
+    "agot": false
+  },
+  {
+    "codigo": "G5475",
+    "desc": "CABLE DE REPARACION DE DATOS ISOFT IS-005 - IPHONE 15 (SIN GARANTIA)",
+    "p1": 14600,
+    "p4": 14600,
+    "stock": 23,
+    "agot": false
+  },
+  {
+    "codigo": "HD-L117B",
+    "desc": "SOPORTE TV 14 A 42 BRAZO DOBLE HOME DESIGN HDL-117B (SIN GARANTIA)",
+    "p1": 12800,
+    "p4": 16400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "HOTDBI",
+    "desc": "HOLDER PARA BICICLETA 6.3 - SOPORTE CELULAR (SIN GARANTIA)",
+    "p1": 900,
+    "p4": 1300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "HOTDMO",
+    "desc": "HOLDER PARA MOTO  6.3 - SOPORTE CELULAR (SIN GARANTIA)",
+    "p1": 900,
+    "p4": 1400,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "I13",
+    "desc": "AURICULAR BLUETOOTH INPODS I13 SIMIL AIRPODS TWS (GARANTIA: 5 DIAS)",
+    "p1": 6400,
+    "p4": 8500,
+    "stock": -3,
+    "agot": true
+  },
+  {
+    "codigo": "I13DX",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH INPODS I13 SIMIL AIRPODS TWS - COLORES VARIOS (GARANTIA: 5 DIAS)",
+    "p1": 6700,
+    "p4": 8200,
+    "stock": -4,
+    "agot": true
+  },
+  {
+    "codigo": "INPODS12",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH I12 - COLORES VARIOS (SIN GARANTIA)",
+    "p1": 5400,
+    "p4": 6500,
+    "stock": 5,
+    "agot": false
+  },
+  {
+    "codigo": "JM2208",
+    "desc": "MANOS LIBRES BLUETHOOT SPORTS BLUETHOOT JM2208  (GARANTIA: CONSULTAR)",
+    "p1": 500,
+    "p4": 700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "KITULTRA8",
+    "desc": "KIT RELOJ SMARTWATCH ULTRA 8 + AURICULAR INALAMBRICO EARPHONES (GARANTIA: CONSULTAR)",
+    "p1": 20200,
+    "p4": 25400,
+    "stock": 3,
+    "agot": false
+  },
+  {
+    "codigo": "MAIP35",
+    "desc": "MANOS LIBRES AURICULAR IPHONE 3.5  (GARANTIA: CONSULTAR)",
+    "p1": 300,
+    "p4": 500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "MAIPLIGB",
+    "desc": "AURICULAR IPHONE APPLE LIGHTNING BLUETHOOT C/CABLE TIPO ORIGINAL (SIN GARANTIA)",
+    "p1": 7400,
+    "p4": 9100,
+    "stock": 11,
+    "agot": false
+  },
+  {
+    "codigo": "MASAS8",
+    "desc": "MANOS LIBRES AURICULAR SAMSUNG S8 AKG EO-IG955 (SIN GARANTIA)",
+    "p1": 1400,
+    "p4": 2100,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "MATDCS",
+    "desc": "MANOS LIBRES AURICULAR BLUETHOOT TDC SPORT  (GARANTIA: CONSULTAR)",
+    "p1": 600,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "MG223",
+    "desc": "CARGADOR 3.4A IMEGA TIPO C + 2 SALIDAS USB BOLSITA (SIN GARANTIA)",
+    "p1": 1800,
+    "p4": 2200,
+    "stock": 847,
+    "agot": false
+  },
+  {
+    "codigo": "MLSBASS",
+    "desc": "AURICULAR MANOS LIBRES SUPER BASS  (SIN GARANTIA)",
+    "p1": 100,
+    "p4": 200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "NG-903",
+    "desc": "AURICULAR NOGA NG-903 PC / MP3  MINI PLUG 3.5 (GARANTIA: 30 DIAS)",
+    "p1": 700,
+    "p4": 900,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "NG-BT409",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH ARIS NOGA NG-BT409  (GARANTIA: 30 DIAS)",
+    "p1": 14700,
+    "p4": 19200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "NG-BTWINS13",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NOGA NG-BTWINS 13 NEGRO  (GARANTIA: 30 DIAS)",
+    "p1": 12500,
+    "p4": 15700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "NGT-LT303",
+    "desc": "SOPORTE TV 19 A 55 BRAZO DOBLE NOGA NGT-LT303 REFORZADO (GARANTIA: 30 DIAS)",
+    "p1": 21800,
+    "p4": 28000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "NGV-400",
+    "desc": "AURICULAR NOGA PC CON MICROFONO NGV-400  (CABLE 1.5MT) (GARANTIA: 30 DIAS)",
+    "p1": 5900,
+    "p4": 7500,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "NM'FILM75",
+    "desc": "FILM PROTECTOR TRANSPARENTE TABLET 7.5\" NETMAK  (GARANTIA: 45 DIAS)",
+    "p1": 500,
+    "p4": 600,
+    "stock": 99,
+    "agot": false
+  },
+  {
+    "codigo": "NM'FILM8",
+    "desc": "FILM PROTECTOR TRANSPARENTE TABLET 8\" NETMAK  (GARANTIA: 45 DIAS)",
+    "p1": 500,
+    "p4": 600,
+    "stock": 286,
+    "agot": false
+  },
+  {
+    "codigo": "NM-B21",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH NETMAK URBANO NM-B21 NEGRO (GARANTIA: 45 DIAS)",
+    "p1": 12200,
+    "p4": 15000,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "NMFILM102",
+    "desc": "FILM PROTECTOR TRANSPARENTE TABLET 10.2\" NETMAK  (GARANTIA: 45 DIAS)",
+    "p1": 700,
+    "p4": 800,
+    "stock": 145,
+    "agot": false
+  },
+  {
+    "codigo": "S890C",
+    "desc": "MAQUINA PLOTTER CORTADORA HIDROGEL SUNSHINE S890C  (GARANTIA: 30 DIAS)",
+    "p1": 800000,
+    "p4": 800000,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "SOAUTA052",
+    "desc": "SOPORTE CELULAR PARA AUTO BRAZO EXTENSIBLE - A052 (SIN GARANTIA)",
+    "p1": 6100,
+    "p4": 7600,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "SOAUTA138",
+    "desc": "SOPORTE CELULAR PARA AUTO IMAN MAGNETICO - A138 (SIN GARANTIA)",
+    "p1": 6100,
+    "p4": 7600,
+    "stock": 2,
+    "agot": false
+  },
+  {
+    "codigo": "SOFLLAZY",
+    "desc": "SOPORTE FLEXIBLE LAZY / CUELLO - MULTIUSO (SIN GARANTIA)",
+    "p1": 500,
+    "p4": 700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "SOFLUNIVERSAL",
+    "desc": "SOPORTE FLEXIBLE UNIVERSAL (MULTIFUNCION)",
+    "p1": 220,
+    "p4": 290,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "SOMOBICAS",
+    "desc": "SOPORTE CELULAR MOTO/BICICLETA CON CASCO - IMPERMEABLE (SIN GARANTIA)",
+    "p1": 10100,
+    "p4": 12700,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "SOUNHOLDER",
+    "desc": "SOPORTE UNIVERSAL HOLDER CEL TABLET GPS P/AUTO (SIN GARANTIA)",
+    "p1": 300,
+    "p4": 400,
+    "stock": 10,
+    "agot": false
+  },
+  {
+    "codigo": "SOUNV",
+    "desc": "SOPORTE UNIVERSAL CELULAR FORMA V  (SIN GARANTIA)",
+    "p1": 300,
+    "p4": 300,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "TIPOC35",
+    "desc": "CABLE ADAPTADOR TIPO C A PLUG 3.5 HEMBRA - SAMSUNG (SIN GARANTIA)",
+    "p1": 3400,
+    "p4": 4500,
+    "stock": 17,
+    "agot": false
+  },
+  {
+    "codigo": "TVJ3000",
+    "desc": "SOPORTE TV 14 A 55 BRAZO DOBLE HOME DESIGN HDL-117B-2 (SIN GARANTIA)",
+    "p1": 15200,
+    "p4": 21000,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "TWS-BT12",
+    "desc": "AURICULAR INALAMBRICO BLUETOOTH SIMIL SAMSUNG LED BUDS TWS-BT12 (GARANTIA: 5 DIAS)",
+    "p1": 17100,
+    "p4": 21600,
+    "stock": 70,
+    "agot": false
+  },
+  {
+    "codigo": "UMUSIC19",
+    "desc": "AURICULAR MANOS LIBRES U MUSIC 19 - COLORES VARIOS (SIN GARANTIA)",
+    "p1": 1000,
+    "p4": 1300,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "USBFUXOIP",
+    "desc": "CABLE USB FUXO IPHONE LIGHTNING 2.1A CARGA RAPIDA (SIN GARANTIA)",
+    "p1": 900,
+    "p4": 1200,
+    "stock": 0,
+    "agot": true
+  },
+  {
+    "codigo": "USBFUXOTC",
+    "desc": "CABLE USB FUXO TIPO C 2.1A CARGA RAPIDA (SIN GARANTIA)",
+    "p1": 700,
+    "p4": 1000,
+    "stock": -1,
+    "agot": true
+  },
+  {
+    "codigo": "USBFUXOV8",
+    "desc": "CABLE USB FUXO V8 MICRO USB 2.1A CARGA RAPIDA (SIN GARANTIA)",
+    "p1": 600,
+    "p4": 900,
+    "stock": 1,
+    "agot": false
+  },
+  {
+    "codigo": "X-2670",
+    "desc": "AURICULAR NOGA FIT X-2670 CON MANOS LIBRES PC / MP3 / PS4  (GARANTIA: 30 DIAS)",
+    "p1": 6300,
+    "p4": 8200,
+    "stock": 3,
+    "agot": false
+  }
+]
