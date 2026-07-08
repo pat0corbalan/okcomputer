@@ -4,16 +4,17 @@ export const dynamic = "force-dynamic";
 
 export async function GET(
   request: Request,
-  { params }: { params: { path: string[] } }
+  { params }: { params: Promise<{ path: string[] }> }
 ) {
   try {
-    const imagePath = params.path.join("/");
+    const { path } = await params;
+
+    const imagePath = path.join("/");
 
     const imageUrl = `http://importcellsgo.ddns.net/tienda2/${imagePath}`;
 
     const response = await fetch(imageUrl, {
       headers: {
-        // Algunos servidores bloquean peticiones sin User-Agent
         "User-Agent": "Mozilla/5.0",
       },
     });
@@ -30,17 +31,14 @@ export async function GET(
       });
     }
 
-    const contentType =
-      response.headers.get("content-type") || "image/jpeg";
-
     const buffer = await response.arrayBuffer();
 
     return new NextResponse(buffer, {
       status: 200,
       headers: {
-        "Content-Type": contentType,
+        "Content-Type":
+          response.headers.get("content-type") || "image/jpeg",
 
-        // Cache para no pedir siempre al servidor viejo
         "Cache-Control":
           "public, max-age=86400, s-maxage=604800, stale-while-revalidate=2592000",
       },
