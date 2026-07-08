@@ -38,7 +38,7 @@ const CategorySchema = new Schema(
 );
 
 const ProductSchema = new Schema<IProduct>({
-  sku: { type: String, required: true, unique: true },
+  sku: { type: String, required: true, unique: true }, // "unique: true" ya crea el índice automáticamente
   codigo_original: { type: String, default: null },
   name: { type: String, required: true, trim: true },
   description: { type: String, default: "" },
@@ -55,9 +55,11 @@ const ProductSchema = new Schema<IProduct>({
   actualizadoEn: { type: Date, default: Date.now }
 });
 
-// ⚠️ IMPORTANTE: índice para evitar duplicados y mejorar búsqueda
-ProductSchema.index({ sku: 1 }, { unique: true });
+/* ---------------- ÍNDICES DE RENDIMIENTO ---------------- */
+// NOTA: 'sku' NO se declara aquí porque ya se declaró arriba con "unique: true".
 ProductSchema.index({ "category.id": 1 });
+ProductSchema.index({ "category.level0": 1, "category.level1": 1 }); // Optimiza filtros por categorías
+ProductSchema.index({ name: "text", description: "text" }); // Habilita la búsqueda ultra rápida por texto
 
 const Product =
   models.Product || model<IProduct>("Product", ProductSchema);

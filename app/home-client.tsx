@@ -26,12 +26,17 @@ import { cn } from "@/lib/utils"
 const INITIAL_PAGE_SIZE = 12
 const SCROLL_PAGE_SIZE = 24
 
-export default function Page() {
+type HomeClientProps = {
+  initialProducts: Product[]
+}
+
+export function HomeClient({ initialProducts }: HomeClientProps) {
   /* ---------------- STATE & TRANSITIONS ---------------- */
-  const [products, setProducts] = useState<Product[]>([])
-  const [loading, setLoading] = useState(true)
-  const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false)
+  // Si el servidor ya trajo productos, empezamos con esos; si no, empezamos con un array vacío.
+  const [products, setProducts] = useState<Product[]>(initialProducts || [])
+  const [clientLoading, setClientLoading] = useState(!initialProducts || initialProducts.length === 0)
   
+  const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false)
   const [isPending, startTransition] = useTransition()
   const { setOpen: setCartOpen } = useCart()
 
@@ -41,34 +46,42 @@ export default function Page() {
   const loaderRef = useRef<HTMLDivElement | null>(null)
   const [visible, setVisible] = useState(INITIAL_PAGE_SIZE)
 
-  /* ---------------- DATA FETCHING ---------------- */
+  /* ---------------- RESPALDO CLIENT-SIDE HYBRID ---------------- */
   useEffect(() => {
-    let isMounted = true
-    async function load() {
+    // Si el servidor resolvió con éxito y nos entregó el catálogo, lo asignamos y apagamos el loader.
+    if (initialProducts && initialProducts.length > 0) {
+      setProducts(initialProducts)
+      setClientLoading(false)
+      return
+    }
+
+    // Estrategia de contingencia: si el Server Component falló debido a URLs absolutas internas,
+    // el cliente asume el control haciendo una petición relativa a la API local de Next.js.
+    async function fallbackFetch() {
       try {
         const res = await fetch("/api/products")
-        if (!res.ok) throw new Error()
-        const data = await res.json()
-        if (isMounted) setProducts(data)
+        if (res.ok) {
+          const data = await res.json()
+          setProducts(data)
+        }
       } catch (err) {
-        console.error("Error cargando productos", err)
+        console.error("Error en el fetch de respaldo (client-side):", err)
       } finally {
-        if (isMounted) setLoading(false)
+        setClientLoading(false)
       }
     }
-    load()
-    return () => { isMounted = false }
-  }, [])
+
+    fallbackFetch()
+  }, [initialProducts])
 
   /* ---------------- BLINDAJE ANTI RE-RENDER ---------------- */
-  // Memorizamos el array de productos para que useProductFilters NO reciba una referencia nueva en cada render.
+  // Memorizamos la colección actual para estabilizar las referencias que lee useProductFilters
   const memoizedProducts = useMemo(() => products, [products])
 
   const { filters, setFilters, filtered } = useProductFilters(memoizedProducts)
 
   // Sincronización del buscador controlando la ejecución exacta
   useEffect(() => {
-    // Solo actualizamos si el valor real de la query en el hook es diferente al debounced
     if (filters.q !== debouncedSearch) {
       startTransition(() => {
         setFilters({ q: debouncedSearch })
@@ -88,7 +101,7 @@ export default function Page() {
     return filtered.slice(0, visible)
   }, [filtered, visible])
 
-  // Reseteamos el conteo de páginas de forma segura guardando la última query ejecutada en un Ref
+  // Reseteamos el conteo de páginas de forma segura al cambiar filtros
   const lastFiltersRef = useRef(JSON.stringify(filters))
   useEffect(() => {
     const currentFiltersStr = JSON.stringify(filters)
@@ -98,9 +111,9 @@ export default function Page() {
     }
   }, [filters])
 
-  /* ---------------- INFINITE SCROLL EFECTIVO ---------------- */
+  /* ---------------- INFINITE SCROLL ---------------- */
   useEffect(() => {
-    if (loading || isPending) return
+    if (isPending || clientLoading) return
     if (visible >= filtered.length) return
 
     const el = loaderRef.current
@@ -119,7 +132,7 @@ export default function Page() {
 
     observer.observe(el)
     return () => observer.disconnect()
-  }, [filtered.length, visible, loading, isPending])
+  }, [filtered.length, visible, isPending, clientLoading])
 
   /* ---------------- UX ACTIONS MEMOIZADAS ---------------- */
   const hasActiveFilters = useMemo(() => {
@@ -146,10 +159,7 @@ export default function Page() {
   return (
     <div className="min-h-screen flex flex-col bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-zinc-50">
       
-      <SiteHeader
-        search={localSearch}
-        onSearchChange={setLocalSearch}
-      />
+      <SiteHeader search={localSearch} onSearchChange={setLocalSearch} />
 
       <Hero />
 
@@ -161,7 +171,7 @@ export default function Page() {
             <h1 className="text-2xl font-bold tracking-tight">Descubrir productos</h1>
             <div className="text-xs text-zinc-500 mt-1 flex items-center gap-2 h-4">
               <span>{filtered.length} resultados</span>
-              {isPending && <Loader2 className="h-3 w-3 animate-spin text-zinc-400" />}
+              {(isPending || clientLoading) && <Loader2 className="h-3 w-3 animate-spin text-zinc-400" />}
             </div>
           </div>
 
@@ -194,8 +204,13 @@ export default function Page() {
 
           {/* SECCIÓN DE RESULTADOS */}
           <section className="space-y-6">
-            {loading ? (
-              <Skeleton />
+            {clientLoading ? (
+              /* SKELETON DE ESPERA PARA EL RESGUARDO ASÍNCRONO DEL CLIENTE */
+              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4">
+                {Array.from({ length: 8 }).map((_, i) => (
+                  <div key={i} className="aspect-[3/4.2] rounded-2xl bg-zinc-200 dark:bg-zinc-900/60 animate-pulse" />
+                ))}
+              </div>
             ) : filtered.length === 0 ? (
               <Empty onReset={clearAll} />
             ) : (
@@ -205,10 +220,7 @@ export default function Page() {
                   style={{ contentVisibility: 'auto', containIntrinsicSize: '0 500px', opacity: isPending ? 0.8 : 1 }}
                 >
                   {visibleProducts.map((p) => (
-                    <ProductCard
-                      key={p._id?.toString?.() || p.sku}
-                      product={p}
-                    />
+                    <ProductCard key={p._id?.toString?.() || p.sku} product={p} />
                   ))}
                 </div>
 
@@ -229,10 +241,7 @@ export default function Page() {
 
       {/* 📱 NAVBAR INFERIOR MÓVIL SMART */}
       <div className="md:hidden fixed bottom-0 left-0 right-0 h-16 bg-white/90 dark:bg-zinc-950/90 backdrop-blur-lg border-t border-zinc-200 dark:border-zinc-800 flex justify-around items-center z-40 px-2 shadow-[0_-8px_30px_rgb(0,0,0,0.02)]">
-        <button 
-          onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} 
-          className="flex flex-col items-center justify-center gap-1 text-xs text-zinc-400 dark:text-zinc-500 active:text-zinc-900 dark:active:text-zinc-100 h-full w-full"
-        >
+        <button onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} className="flex flex-col items-center justify-center gap-1 text-xs text-zinc-400 dark:text-zinc-500 active:text-zinc-900 dark:active:text-zinc-100 h-full w-full">
           <Search className="h-5 w-5 stroke-[2.2]" />
           <span className="text-[10px] font-bold">Buscar</span>
         </button>
@@ -248,10 +257,7 @@ export default function Page() {
           <span className="text-[10px] font-bold">Filtros</span>
         </button>
 
-        <button 
-          onClick={() => setCartOpen(true)}
-          className="flex flex-col items-center justify-center gap-1 text-xs text-zinc-400 dark:text-zinc-500 active:text-zinc-900 dark:active:text-zinc-100 h-full w-full"
-        >
+        <button onClick={() => setCartOpen(true)} className="flex flex-col items-center justify-center gap-1 text-xs text-zinc-400 dark:text-zinc-500 active:text-zinc-900 dark:active:text-zinc-100 h-full w-full">
           <ShoppingBag className="h-5 w-5 stroke-[2.2]" />
           <span className="text-[10px] font-bold">Carrito</span>
         </button>
@@ -281,22 +287,11 @@ export default function Page() {
           </div>
           
           <div className="p-4 bg-white dark:bg-zinc-950 border-t border-zinc-100 dark:border-zinc-900 shrink-0 flex gap-3">
-            <button 
-              onClick={clearAll}
-              disabled={!hasActiveFilters}
-              className="px-4 rounded-xl border border-zinc-200 text-zinc-700 dark:text-zinc-300 font-bold text-xs disabled:opacity-40"
-            >
+            <button onClick={clearAll} disabled={!hasActiveFilters} className="px-4 rounded-xl border border-zinc-200 text-zinc-700 dark:text-zinc-300 font-bold text-xs disabled:opacity-40">
               Borrar
             </button>
-            <button 
-              onClick={() => setMobileFiltersOpen(false)}
-              className="flex-1 h-12 rounded-xl bg-zinc-900 text-white font-bold text-sm dark:bg-zinc-50 dark:text-zinc-950 active:scale-95 transition-all flex items-center justify-center gap-2"
-            >
-              {isPending ? (
-                <Loader2 className="h-4 w-4 animate-spin" />
-              ) : (
-                `Ver ${filtered.length} productos`
-              )}
+            <button onClick={() => setMobileFiltersOpen(false)} className="flex-1 h-12 rounded-xl bg-zinc-900 text-white font-bold text-sm dark:bg-zinc-50 dark:text-zinc-950 active:scale-95 transition-all flex items-center justify-center gap-2">
+              {isPending ? <Loader2 className="h-4 w-4 animate-spin" /> : `Ver ${filtered.length} productos`}
             </button>
           </div>
         </SheetContent>
@@ -305,17 +300,6 @@ export default function Page() {
       <div className="hidden md:block">
         <SiteFooter />
       </div>
-    </div>
-  )
-}
-
-/* ---------------- UI STATES ---------------- */
-function Skeleton() {
-  return (
-    <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
-      {Array.from({ length: 8 }).map((_, i) => (
-        <div key={i} className="aspect-[3/4.2] rounded-2xl bg-zinc-200 dark:bg-zinc-900 animate-pulse" />
-      ))}
     </div>
   )
 }
