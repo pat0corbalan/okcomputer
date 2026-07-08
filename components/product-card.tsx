@@ -10,11 +10,20 @@ import { getCategoryName, type Product } from "@/lib/products"
 import { toast } from "sonner"
 import { cn } from "@/lib/utils"
 
-export function ProductCard({ product, className }: { product: Product; className?: string }) {
+type ProductCardProps = {
+  product: Product
+  className?: string
+  index?: number // 💡 Recibe la posición en la grilla para optimizar el LCP de Next.js
+}
+
+export function ProductCard({ product, className, index }: ProductCardProps) {
   const { addItem } = useCart()
   const [isAnimating, setIsAnimating] = useState(false)
   const [imageError, setImageError] = useState(false)
   const BASE_URL = "http://importcellsgo.ddns.net/tienda2"
+
+  // ⚡ Evalúa si la tarjeta se renderiza "Above the fold" (primeras 4 posiciones)
+  const isPriority = index !== undefined && index < 4
 
   const getImageUrl = () => {
     if (product.image) {
@@ -66,6 +75,9 @@ export function ProductCard({ product, className }: { product: Product; classNam
             className="object-contain p-3 md:p-4 transition-transform duration-500 ease-out md:group-hover:scale-105"
             onError={() => setImageError(true)}
             unoptimized 
+            // 🚀 BLINDAJE LCP ANULADO: Prioriza de inmediato el render si está en la zona superior de la pantalla
+            priority={isPriority}
+            loading={isPriority ? "eager" : "lazy"}
           />
         )}
         <span className="absolute left-2 top-2 rounded-lg bg-background/60 px-2 py-0.5 text-[9px] font-bold text-muted-foreground uppercase tracking-wider backdrop-blur-md">
@@ -76,7 +88,6 @@ export function ProductCard({ product, className }: { product: Product; classNam
       {/* INFORMACIÓN: Altura dinámica que crece según la necesidad del título */}
       <div className="flex flex-1 flex-col p-3 md:p-4 justify-between gap-3 bg-gradient-to-b from-transparent to-card/20">
         
-        {/* Aquí la magia: eliminamos los `h-[...]` y el `line-clamp` */}
         <div className="flex-1 space-y-1.5">
           <h3 className="text-balance text-xs md:text-sm font-bold leading-snug text-foreground/90 tracking-tight group-hover:text-foreground">
             {product.name}
@@ -88,10 +99,11 @@ export function ProductCard({ product, className }: { product: Product; classNam
         </div>
         
         {/* FILA DE PRECIO: Se pega al fondo obligatoriamente por el flex-1 superior */}
-        <div className="mt-auto flex items-end justify-between pt-1 gap-1 border-t border-border/40 pt-2">
+        <div className="mt-auto flex items-end justify-between gap-1 border-t border-border/40 pt-2">
           <div className="flex flex-col">
             <span className="text-[9px] font-bold text-muted-foreground/70 uppercase tracking-wider leading-none">Precio</span>
-            <span className="font-display text-base md:text-lg font-black text-primary tracking-tight mt-0.5">
+            {/* ⚡ Cambiado a font-mono para que use Geist Mono en los números (Look Premium) */}
+            <span className="font-mono text-base md:text-lg font-black text-primary tracking-tight mt-0.5">
               {formatPrice(product.price)}
             </span>
           </div>

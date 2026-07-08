@@ -32,7 +32,6 @@ type HomeClientProps = {
 
 export function HomeClient({ initialProducts }: HomeClientProps) {
   /* ---------------- STATE & TRANSITIONS ---------------- */
-  // Si el servidor ya trajo productos, empezamos con esos; si no, empezamos con un array vacío.
   const [products, setProducts] = useState<Product[]>(initialProducts || [])
   const [clientLoading, setClientLoading] = useState(!initialProducts || initialProducts.length === 0)
   
@@ -48,15 +47,12 @@ export function HomeClient({ initialProducts }: HomeClientProps) {
 
   /* ---------------- RESPALDO CLIENT-SIDE HYBRID ---------------- */
   useEffect(() => {
-    // Si el servidor resolvió con éxito y nos entregó el catálogo, lo asignamos y apagamos el loader.
     if (initialProducts && initialProducts.length > 0) {
       setProducts(initialProducts)
       setClientLoading(false)
       return
     }
 
-    // Estrategia de contingencia: si el Server Component falló debido a URLs absolutas internas,
-    // el cliente asume el control haciendo una petición relativa a la API local de Next.js.
     async function fallbackFetch() {
       try {
         const res = await fetch("/api/products")
@@ -75,12 +71,10 @@ export function HomeClient({ initialProducts }: HomeClientProps) {
   }, [initialProducts])
 
   /* ---------------- BLINDAJE ANTI RE-RENDER ---------------- */
-  // Memorizamos la colección actual para estabilizar las referencias que lee useProductFilters
   const memoizedProducts = useMemo(() => products, [products])
 
   const { filters, setFilters, filtered } = useProductFilters(memoizedProducts)
 
-  // Sincronización del buscador controlando la ejecución exacta
   useEffect(() => {
     if (filters.q !== debouncedSearch) {
       startTransition(() => {
@@ -89,7 +83,6 @@ export function HomeClient({ initialProducts }: HomeClientProps) {
     }
   }, [debouncedSearch, setFilters, filters.q])
 
-  // Sincronización inversa controlada
   useEffect(() => {
     if (filters.q !== undefined && filters.q !== localSearch) {
       setLocalSearch(filters.q)
@@ -101,7 +94,6 @@ export function HomeClient({ initialProducts }: HomeClientProps) {
     return filtered.slice(0, visible)
   }, [filtered, visible])
 
-  // Reseteamos el conteo de páginas de forma segura al cambiar filtros
   const lastFiltersRef = useRef(JSON.stringify(filters))
   useEffect(() => {
     const currentFiltersStr = JSON.stringify(filters)
@@ -205,7 +197,6 @@ export function HomeClient({ initialProducts }: HomeClientProps) {
           {/* SECCIÓN DE RESULTADOS */}
           <section className="space-y-6">
             {clientLoading ? (
-              /* SKELETON DE ESPERA PARA EL RESGUARDO ASÍNCRONO DEL CLIENTE */
               <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4">
                 {Array.from({ length: 8 }).map((_, i) => (
                   <div key={i} className="aspect-[3/4.2] rounded-2xl bg-zinc-200 dark:bg-zinc-900/60 animate-pulse" />
@@ -219,8 +210,13 @@ export function HomeClient({ initialProducts }: HomeClientProps) {
                   className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4 transition-opacity duration-200"
                   style={{ contentVisibility: 'auto', containIntrinsicSize: '0 500px', opacity: isPending ? 0.8 : 1 }}
                 >
-                  {visibleProducts.map((p) => (
-                    <ProductCard key={p._id?.toString?.() || p.sku} product={p} />
+                  {/* ✅ CORREGIDO: Extraemos el index del mapeo y se lo inyectamos al ProductCard */}
+                  {visibleProducts.map((p, index) => (
+                    <ProductCard 
+                      key={p._id?.toString?.() || p.sku} 
+                      product={p} 
+                      index={index} 
+                    />
                   ))}
                 </div>
 
