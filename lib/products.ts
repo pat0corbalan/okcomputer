@@ -22,6 +22,7 @@ export interface Product {
   name: string;
   description: string;
   price: number;
+  agot: boolean;
   cost?: number; // Añadido por el nuevo modelo
   stock: number; // Cambiado de boolean a number para manejar cantidades reales de stock
   image: string | null;

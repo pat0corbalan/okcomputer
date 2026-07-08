@@ -13,7 +13,7 @@ export const storeConfig = {
   // Formato internacional SIN el signo +, ni espacios ni guiones.
   // Ejemplo Argentina (Santiago del Estero): 54 9 385 XXXXXXX  ->  "5493854XXXXXX"
   // >>> REEMPLAZA ESTE NUMERO POR EL DE TU TIENDA <<<
-  whatsappNumber: "5493855000000",
+  whatsappNumber: "543856128340",
 
   // Zona de entrega mostrada al cliente.
   deliveryZone: "Santiago del Estero Capital",
