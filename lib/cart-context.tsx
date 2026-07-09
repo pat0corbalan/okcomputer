@@ -29,17 +29,33 @@ type CartAction =
 
 const STORAGE_KEY = "okcomputer-cart"
 
+// Helper idéntico para asegurar que el Reducer y los Componentes lean exactamente el mismo string identificador
+const getProductId = (product: any): string => {
+  if (!product) return ""
+  
+  // Si _id viene como objeto de Mongo { $oid: "..." }
+  const mongoId = product._id && typeof product._id === 'object' && '$oid' in product._id 
+    ? (product._id as any).$oid 
+    : product._id;
+
+  const id = product.id || mongoId || product.sku || product.codigo_original
+  return String(id)
+}
+
 function reducer(state: CartState, action: CartAction): CartState {
   switch (action.type) {
     case "HYDRATE":
       return { items: action.items }
     case "ADD": {
       const qty = action.quantity ?? 1
-      const existing = state.items.find((i) => i.product.id === action.product.id)
+      const targetAddId = getProductId(action.product)
+      
+      const existing = state.items.find((i) => getProductId(i.product) === targetAddId)
+      
       if (existing) {
         return {
           items: state.items.map((i) =>
-            i.product.id === action.product.id
+            getProductId(i.product) === targetAddId
               ? { ...i, quantity: i.quantity + qty }
               : i,
           ),
@@ -48,14 +64,15 @@ function reducer(state: CartState, action: CartAction): CartState {
       return { items: [...state.items, { product: action.product, quantity: qty }] }
     }
     case "REMOVE":
-      return { items: state.items.filter((i) => i.product.id !== action.id) }
+      return { items: state.items.filter((i) => getProductId(i.product) !== action.id) }
+      
     case "SET_QTY": {
       if (action.quantity <= 0) {
-        return { items: state.items.filter((i) => i.product.id !== action.id) }
+        return { items: state.items.filter((i) => getProductId(i.product) !== action.id) }
       }
       return {
         items: state.items.map((i) =>
-          i.product.id === action.id ? { ...i, quantity: action.quantity } : i,
+          getProductId(i.product) === action.id ? { ...i, quantity: action.quantity } : i,
         ),
       }
     }

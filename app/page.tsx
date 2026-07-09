@@ -32,8 +32,9 @@ export default async function Page() {
 
   return (
     <Suspense fallback={
-      <div className="min-h-screen flex items-center justify-center bg-zinc-950">
-        <Loader2 className="h-6 w-6 animate-spin text-zinc-50" />
+      // Cambiado bg-zinc-950 por bg-background (azul noche) y text-zinc-50 por text-neon-cyan (cian eléctrico)
+      <div className="min-h-screen flex items-center justify-center bg-background">
+        <Loader2 className="h-6 w-6 animate-spin text-neon-cyan" />
       </div>
     }>
       <HomeClient initialProducts={products} />

@@ -36,9 +36,10 @@ export const metadata: Metadata = {
   },
 }
 
+// Sincronizamos el color del navegador móvil con el azul noche de la imagen
 export const viewport: Viewport = {
   colorScheme: "dark",
-  themeColor: "#09090b",
+  themeColor: "#0a0f1d", 
   width: "device-width",
   initialScale: 1,
   maximumScale: 1,
@@ -52,8 +53,7 @@ export default function RootLayout({
   return (
     <html
       lang="es"
-      className={`dark ${inter.variable} ${spaceGrotesk.variable} scroll-smooth`}
-      suppressHydrationWarning
+
     >
       <head>
         <link rel="dns-prefetch" href="https://images.unsplash.com" />
@@ -66,19 +66,27 @@ export default function RootLayout({
         )}
       </head>
 
-      <body className="bg-zinc-950 text-zinc-50 font-sans antialiased selection:bg-zinc-100 selection:text-zinc-900 min-h-screen flex flex-col">
+      {/* Eliminamos bg-zinc-950 para usar bg-background heredado de globals.css y cambiamos la selección al cian de tus neones */}
+      <body className="bg-background text-foreground font-sans antialiased selection:bg-neon-cyan/30 selection:text-white min-h-screen flex flex-col">
         <CartProvider>
           <div className="flex-1 flex flex-col">
             {children}
           </div>
 
           <Toaster
-            position="bottom-center"
-            expand={false}
-            richColors
-            closeButton
-            className="md:!top-6 md:!bottom-auto"
-          />
+          position="bottom-center"
+          expand={false}
+          theme="dark" // Le avisa a Sonner que use estilos oscuros por defecto
+          closeButton={false} // Quitamos el botón x genérico que rompe tu diseño cyberpunk
+          toastOptions={{
+            style: {
+              background: 'rgba(13, 21, 39, 0.85)',
+              backdropFilter: 'blur(12px)',
+              border: '1px solid rgba(16, 185, 129, 0.2)',
+              color: '#ffffff',
+            }
+          }}
+        />
         </CartProvider>
 
         {process.env.NODE_ENV === "production" && <Analytics />}
