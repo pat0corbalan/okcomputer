@@ -1,8 +1,8 @@
 "use client"
 
-import { useMemo, useState, useRef } from "react"
+import { useMemo, useState, useRef, useTransition, useEffect } from "react"
 import { type Product } from "@/lib/products"
-import { ChevronDown, RotateCcw, SlidersHorizontal, X } from "lucide-react"
+import { ChevronDown, RotateCcw, SlidersHorizontal, X, Loader2 } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 interface Props {
@@ -53,11 +53,12 @@ interface SectionProps {
   open: boolean
   onToggle: () => void
   children: React.ReactNode
+  isLoading?: boolean // Muestra el overlay borroso
 }
 
-function Section({ title, open, onToggle, children }: SectionProps) {
+function Section({ title, open, onToggle, children, isLoading }: SectionProps) {
   return (
-    <div className="border-b border-zinc-100 dark:border-zinc-900 py-3">
+    <div className="border-b border-zinc-100 dark:border-zinc-900 py-3 relative">
       <button
         onClick={onToggle}
         className="flex w-full items-center justify-between mb-2"
@@ -65,7 +66,6 @@ function Section({ title, open, onToggle, children }: SectionProps) {
         <span className="text-sm font-semibold text-zinc-900 dark:text-zinc-100">
           {title}
         </span>
-
         <ChevronDown
           className={cn(
             "h-4 w-4 text-zinc-400 transition-transform",
@@ -76,11 +76,25 @@ function Section({ title, open, onToggle, children }: SectionProps) {
 
       <div
         className={cn(
-          "grid transition-all duration-200 ease-out overflow-hidden",
+          "grid transition-all duration-200 ease-out overflow-hidden relative",
           open ? "grid-rows-[1fr] opacity-100" : "grid-rows-[0fr] opacity-0"
         )}
       >
-        <div className="overflow-hidden space-y-1">{children}</div>
+        <div className="overflow-hidden space-y-1 relative min-h-[40px]">
+          {children}
+
+          {/* LOADING BORROSO LOCALIZADO SOBRE LOS CHIPS */}
+          {isLoading && (
+            <div className="absolute inset-0 z-20 flex items-center justify-center rounded-xl bg-white/70 dark:bg-zinc-950/70 backdrop-blur-md transition-all animate-in fade-in duration-150">
+              <div className="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-white dark:bg-zinc-900 shadow-xl border border-zinc-200 dark:border-zinc-800 animate-in zoom-in-95 duration-150">
+                <Loader2 className="h-4 w-4 animate-spin text-zinc-950 dark:text-zinc-50" />
+                <span className="text-xs font-semibold text-zinc-800 dark:text-zinc-200">
+                  Cargando...
+                </span>
+              </div>
+            </div>
+          )}
+        </div>
       </div>
     </div>
   )
@@ -98,9 +112,15 @@ export function AdvancedFilters({
   onBrandChange,
   onReset,
 }: Props) {
+  const [isPending, startTransition] = useTransition()
+  const [loadingSection, setLoadingSection] = useState<"cat" | "sub" | "brand" | "all" | null>(null)
+  
+  // Flag interno para saber qué sección debe abrirse y deslizarse tras la carga
+  const [pendingNavigation, setPendingNavigation] = useState<"sub" | "brand" | null>(null)
+
   const [open, setOpen] = useState({
     cat: true,
-    sub: false, // Empezamos con sub y brand cerrados para un look limpio
+    sub: false,
     brand: false,
   })
 
@@ -110,7 +130,6 @@ export function AdvancedFilters({
     brand: "",
   })
 
-  // Referencias para hacer scroll automático fluido
   const subSectionRef = useRef<HTMLDivElement>(null)
   const brandSectionRef = useRef<HTMLDivElement>(null)
 
@@ -147,6 +166,27 @@ export function AdvancedFilters({
     return { categories, subcategories, brands }
   }, [products, filteredProductsForOptions])
 
+  // EFECTO EFICAZ: Primero muestra loading, cuando termina la carga, abre el acordeón y se desliza.
+  useEffect(() => {
+    if (!isPending && pendingNavigation) {
+      const target = pendingNavigation
+      setPendingNavigation(null)
+      setLoadingSection(null)
+
+      if (target === "sub") {
+        setOpen({ cat: false, sub: true, brand: false })
+        setTimeout(() => {
+          subSectionRef.current?.scrollIntoView({ behavior: "smooth", block: "nearest" })
+        }, 50)
+      } else if (target === "brand") {
+        setOpen({ cat: false, sub: false, brand: true })
+        setTimeout(() => {
+          brandSectionRef.current?.scrollIntoView({ behavior: "smooth", block: "nearest" })
+        }, 50)
+      }
+    }
+  }, [isPending, pendingNavigation])
+
   const hasFilters =
     selectedCategory !== "all" ||
     selectedSubcategory !== "all" ||
@@ -159,36 +199,51 @@ export function AdvancedFilters({
   }
 
   const clearAll = () => {
-    onReset()
+    setLoadingSection("all")
+    startTransition(() => {
+      onReset()
+    })
     setSearch({ cat: "", sub: "", brand: "" })
     setOpen({ cat: true, sub: false, brand: false })
   }
 
-  // Manejadores con auto-avance secuencial
   const handleCategorySelect = (category: string) => {
     const isRemoving = selectedCategory === category
-    onCategoryChange(isRemoving ? "all" : category)
-
+    
     if (!isRemoving) {
-      // Abrimos Tipo, cerramos Categoría (opcional, limpia la pantalla), y hacemos scroll
-      setOpen({ cat: false, sub: true, brand: false })
-      setTimeout(() => {
-        subSectionRef.current?.scrollIntoView({ behavior: "smooth", block: "nearest" })
-      }, 100)
+      setLoadingSection("cat") // Muestra loading en la sección actual
+      setPendingNavigation("sub") // Al terminar, navega a Tipo
+    } else {
+      setLoadingSection("all")
     }
+
+    startTransition(() => {
+      onCategoryChange(isRemoving ? "all" : category)
+    })
   }
 
   const handleSubcategorySelect = (subcat: string) => {
     const isRemoving = selectedSubcategory === subcat
-    onSubcategoryChange(isRemoving ? "all" : subcat)
-
+    
     if (!isRemoving) {
-      // Abrimos Marca, cerramos Tipo
-      setOpen({ cat: false, sub: false, brand: true })
-      setTimeout(() => {
-        brandSectionRef.current?.scrollIntoView({ behavior: "smooth", block: "nearest" })
-      }, 100)
+      setLoadingSection("sub") // Muestra loading en la sección actual
+      setPendingNavigation("brand") // Al terminar, navega a Marca
+    } else {
+      setLoadingSection("all")
     }
+
+    startTransition(() => {
+      onSubcategoryChange(isRemoving ? "all" : subcat)
+    })
+  }
+
+  const handleBrandSelect = (brand: string) => {
+    const isRemoving = selectedBrand === brand
+    setLoadingSection(isRemoving ? "all" : "brand")
+    
+    startTransition(() => {
+      onBrandChange(isRemoving ? "all" : brand)
+    })
   }
 
   /* ----------------------------- ACTIVE CHIPS ----------------------------- */
@@ -197,15 +252,15 @@ export function AdvancedFilters({
     const items = [
       selectedCategory !== "all" && {
         label: selectedCategory,
-        onRemove: () => onCategoryChange("all"),
+        onRemove: () => { setLoadingSection("all"); startTransition(() => onCategoryChange("all")) },
       },
       selectedSubcategory !== "all" && {
         label: selectedSubcategory,
-        onRemove: () => onSubcategoryChange("all"),
+        onRemove: () => { setLoadingSection("all"); startTransition(() => onSubcategoryChange("all")) },
       },
       selectedBrand !== "all" && {
         label: selectedBrand,
-        onRemove: () => onBrandChange("all"),
+        onRemove: () => { setLoadingSection("all"); startTransition(() => onBrandChange("all")) },
       },
     ].filter(Boolean) as { label: string; onRemove: () => void }[]
 
@@ -217,7 +272,7 @@ export function AdvancedFilters({
           <button
             key={i.label}
             onClick={i.onRemove}
-            className="flex items-center gap-2 text-xs px-3 py-1.5 rounded-full bg-zinc-900 text-white dark:bg-zinc-50 dark:text-zinc-900"
+            className="flex items-center gap-2 text-xs px-3 py-1.5 rounded-full bg-zinc-900 text-white dark:bg-zinc-50 dark:text-zinc-900 shadow-sm"
           >
             {i.label}
             <X className="h-3 w-3" />
@@ -230,11 +285,11 @@ export function AdvancedFilters({
   /* ----------------------------- RENDER ----------------------------- */
 
   return (
-    <div className="w-full h-full max-h-[80vh] md:max-h-none overflow-y-auto pr-1 space-y-3 scroll-smooth">
+    <div className="w-full h-full max-h-[80vh] md:max-h-none overflow-y-auto pr-1 space-y-3 scroll-smooth relative">
       
       {/* HEADER */}
       <div className="flex items-center justify-between border-b border-zinc-200 dark:border-zinc-800 pb-3 sticky top-0 bg-white dark:bg-zinc-950 z-10">
-        <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-wide">
+        <div className="flex items-center gap-2 text-xs font-bold uppercase tracking-wide text-zinc-900 dark:text-zinc-100">
           <SlidersHorizontal className="h-4 w-4" />
           Filtros
         </div>
@@ -242,7 +297,7 @@ export function AdvancedFilters({
         {hasFilters && (
           <button
             onClick={clearAll}
-            className="flex items-center gap-1 text-xs text-zinc-500 hover:text-zinc-900"
+            className="flex items-center gap-1 text-xs text-zinc-500 hover:text-zinc-900 transition-colors"
           >
             <RotateCcw className="h-3.5 w-3.5" />
             Limpiar
@@ -252,82 +307,99 @@ export function AdvancedFilters({
 
       <ActiveFilters />
 
-      {/* CATEGORY */}
-      <div>
-        <Section
-          title="Categoría"
-          open={open.cat}
-          onToggle={() => setOpen((s) => ({ ...s, cat: !s.cat }))}
-        >
-          <input
-            value={search.cat}
-            onChange={(e) => setSearch((s) => ({ ...s, cat: e.target.value }))}
-            placeholder="Buscar categoría..."
-            className="w-full mb-2 px-3 py-2 text-xs rounded-lg bg-zinc-100 dark:bg-zinc-900 outline-none"
-          />
-
-          {filterList(data.categories, search.cat).map(([k, v]) => (
-            <Chip
-              key={k}
-              label={k}
-              count={v}
-              active={selectedCategory === k}
-              onClick={() => handleCategorySelect(k)}
+      <div className="relative space-y-3">
+        
+        {/* CATEGORY */}
+        <div>
+          <Section
+            title="Categoría"
+            open={open.cat}
+            onToggle={() => setOpen((s) => ({ ...s, cat: !s.cat }))}
+            isLoading={isPending && (loadingSection === "cat" || loadingSection === "all")}
+          >
+            <input
+              value={search.cat}
+              onChange={(e) => setSearch((s) => ({ ...s, cat: e.target.value }))}
+              placeholder="Buscar categoría..."
+              className="w-full mb-2 px-3 py-2 text-xs rounded-lg bg-zinc-100 dark:bg-zinc-900 outline-none"
             />
-          ))}
-        </Section>
-      </div>
 
-      {/* SUBCATEGORY */}
-      <div ref={subSectionRef}>
-        <Section
-          title="Tipo"
-          open={open.sub}
-          onToggle={() => setOpen((s) => ({ ...s, sub: !s.sub }))}
-        >
-          <input
-            value={search.sub}
-            onChange={(e) => setSearch((s) => ({ ...s, sub: e.target.value }))}
-            placeholder="Buscar tipo..."
-            className="w-full mb-2 px-3 py-2 text-xs rounded-lg bg-zinc-100 dark:bg-zinc-900 outline-none"
-          />
+            <div className="space-y-1">
+              {filterList(data.categories, search.cat).map(([k, v]) => (
+                <Chip
+                  key={k}
+                  label={k}
+                  count={v}
+                  active={selectedCategory === k}
+                  onClick={() => handleCategorySelect(k)}
+                />
+              ))}
+            </div>
+          </Section>
+        </div>
 
-          {filterList(data.subcategories, search.sub).map(([k, v]) => (
-            <Chip
-              key={k}
-              label={k}
-              count={v}
-              active={selectedSubcategory === k}
-              onClick={() => handleSubcategorySelect(k)}
+        {/* SUBCATEGORY (Tipo) */}
+        <div ref={subSectionRef}>
+          <Section
+            title="Tipo"
+            open={open.sub}
+            onToggle={() => setOpen((s) => ({ ...s, sub: !s.sub }))}
+            isLoading={isPending && (loadingSection === "sub" || loadingSection === "all")}
+          >
+            <input
+              value={search.sub}
+              onChange={(e) => setSearch((s) => ({ ...s, sub: e.target.value }))}
+              placeholder="Buscar tipo..."
+              className="w-full mb-2 px-3 py-2 text-xs rounded-lg bg-zinc-100 dark:bg-zinc-900 outline-none"
             />
-          ))}
-        </Section>
-      </div>
 
-      {/* BRAND */}
-      <div ref={brandSectionRef}>
-        <Section
-          title="Marca / Modelo"
-          open={open.brand}
-          onToggle={() => setOpen((s) => ({ ...s, brand: !s.brand }))}
-        >
-          <input
-            value={search.brand}
-            onChange={(e) => setSearch((s) => ({ ...s, brand: e.target.value }))}
-            placeholder="Buscar marca..."
-            className="w-full mb-2 px-3 py-2 text-xs rounded-lg bg-zinc-100 dark:bg-zinc-900 outline-none"
-          />
+            <div className="space-y-1">
+              {filterList(data.subcategories, search.sub).map(([k, v]) => (
+                <Chip
+                  key={k}
+                  label={k}
+                  count={v}
+                  active={selectedSubcategory === k}
+                  onClick={() => handleSubcategorySelect(k)}
+                />
+              ))}
+            </div>
+          </Section>
+        </div>
 
-          {filterList(data.brands, search.brand).map(([k, v]) => (
-            <Chip
-              key={k}
-              label={k}
-              count={v}
-              active={selectedBrand === k}
-              onClick={() => onBrandChange(selectedBrand === k ? "all" : k)}
+        {/* BRAND */}
+        <div ref={brandSectionRef}>
+          <Section
+            title="Marca / Modelo"
+            open={open.brand}
+            onToggle={() => setOpen((s) => ({ ...s, brand: !s.brand }))}
+            isLoading={isPending && (loadingSection === "brand" || loadingSection === "all")}
+          >
+            <input
+              value={search.brand}
+              onChange={(e) => setSearch((s) => ({ ...s, brand: e.target.value }))}
+              placeholder="Buscar marca..."
+              className="w-full mb-2 px-3 py-2 text-xs rounded-lg bg-zinc-100 dark:bg-zinc-900 outline-none"
             />
-          ))}
-        </Section>
+
+            <div className="space-y-1">
+              {filterList(data.brands, search.brand).map(([k, v]) => (
+                <Chip
+                  key={k}
+                  label={k}
+                  count={v}
+                  active={selectedBrand === k}
+                  onClick={() => handleBrandSelect(k)}
+                />
+              ))}
+            </div>
+          </Section>
+        </div>
+
+        {/* OVERLAY GLOBAL AL LIMPIAR TODO */}
+        {isPending && loadingSection === "all" && (
+          <div className="absolute inset-0 z-30 flex items-center justify-center bg-white/50 dark:bg-zinc-950/50 backdrop-blur-sm animate-in fade-in duration-150 rounded-xl" />
+        )}
       </div>
     </div>
   )
